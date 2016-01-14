@@ -1,0 +1,28 @@
+name: oelkemusic
+favicon: null
+layout_spectrum: 0.4993429593741894
+typography_spectrum: 0.49676740053109825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5285689665470272
+  lightness: 0.596759099047631
+  saturation: 0.6694258872885257
+  rhythmicContrast: 0.44763027084991336
+purpose: []
