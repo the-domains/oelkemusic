@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Brigitte Oelke playing Cäcilia Weber
-datePublished: '2016-01-14T23:16:25.981Z'
-dateModified: '2016-01-14T23:16:11.064Z'
+datePublished: '2016-01-14T23:23:18.966Z'
+dateModified: '2016-01-14T23:22:36.257Z'
 title: 'MOZART! - Das Musical'
 author: []
 sourcePath: _posts/2016-01-14-mozart-das-musical.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-Listen to the new cast-recording of _[MOZART! - Das Musical][0]_in which I am singing and playing the role of _Cäcilia Weber_, the evil mother in law of _Amadeus Mozart_.
+Please listen to the new cast-recording of _[MOZART! - Das Musical][0], _in which I am singing and playing the role of _Cäcilia Weber_, the evil mother in law of _Amadeus Mozart_.
 
 http://amzn.to/1SQQPxN
 
