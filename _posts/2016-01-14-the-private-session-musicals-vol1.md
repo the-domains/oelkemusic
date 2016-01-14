@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-14T22:13:33.675Z'
-dateModified: '2016-01-14T22:13:30.026Z'
+datePublished: '2016-01-14T22:39:05.578Z'
+dateModified: '2016-01-14T22:38:33.856Z'
 title: The Private Session – Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -28,10 +28,10 @@ I put all my love into the production of this masterpiece and only worked with s
 
 The Piano is played by Dominik Franke, a brilliant pianist and musical director who is working on many class A theatre productions.
 
-The cello is played by Ariane Spiegel, a member of the famous formation NEO BAROCK which were honoured with one of the most important awards in european music business -- ECHO Klassik
+The cello is played by Ariane Spiegel, a member of the famous formation NEO BAROCK which were honored with one of the most important awards in european music business -- ECHO Klassik
 
-The music has been recorded at the [RecPublica Studios][1] with a very rare FAZIOLI 228 Piano. The Studio was especially built for and around this excellent piano that will touch your soul.   
-By using some of the finest microphones on the market (Brauner; Neumann) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to MasterLab, Berlin to get finished -- one of the best mastering studios worldwide. 
+The music has been recorded at the [RecPublica Studios][1] with a rare FAZIOLI 228 Piano. The Studio was especially built for and around this excellent piano that will touch your soul.   
+By using some of the finest microphones on the market (Brauner; Neumann) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to MasterLab, Berlin to get finished -- one of the leading mastering studios worldwide. 
 
 Last but not least I created a very special first edition with a golden embossing print and a sticker of my logo, which is only available with the CD. A real collectors pearl. You will love it!
 
