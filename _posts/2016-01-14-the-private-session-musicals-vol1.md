@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-14T22:50:20.845Z'
-dateModified: '2016-01-14T22:50:10.099Z'
+datePublished: '2016-01-14T23:13:48.129Z'
+dateModified: '2016-01-14T23:13:17.265Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -34,13 +34,10 @@ The music has been recorded at the [RecPublica Studios][2] with a rare FAZIOLI 2
 By using some of the finest microphones on the market (Brauner; Neumann) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to [MasterLab][3], Berlin to get finished -- one of the leading mastering studios worldwide. 
 
 Last but not least I created a very special first edition with a golden embossing print and a sticker of my logo, which is only available with the CD. A real collectors pearl. You will love it!
-undefined
 
-Order the CD now at your favourite record store, e.g. [Amazon][4]
-undefined
+Order the CD now at your favourite record store, e.g. 
 
-The album is also available for download, e.g. on [iTunes ][5]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7ca596da5061f80cd41512b9c4ad43a/passthrough.jpg?height=520&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5eb816ede467f0e975c239229f67da28080db68a.jpg&width=750)
+The album is also available for download, e.g. on ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7ca596da5061f80cd41512b9c4ad43a/passthrough.jpg?height=520&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5eb816ede467f0e975c239229f67da28080db68a.jpg&width=750)
 
 # The Private Session Musicals Vol.1
 
@@ -52,5 +49,3 @@ Uploading Item...
 [1]: http://www.neobarock.de/
 [2]: http://recpublica.de/
 [3]: http://www.masterlab.de/
-[4]: http://amzn.to/1ABMe6L
-[5]: https://geo.itunes.apple.com/de/album/private-session-musicals-vol.1/id969862139?mt=1&app=music
