@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-14T21:24:30.107Z'
-dateModified: '2016-01-14T21:24:24.819Z'
+datePublished: '2016-01-14T21:39:43.206Z'
+dateModified: '2016-01-14T21:39:40.836Z'
 title: The Private Session – Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -36,7 +36,7 @@ By using some of the finest microphones on the market (Brauner; Neumann) we ensu
 Last but not least I created a very special first edition with a golden embossing print and a sticker of my logo, which is only available with the CD. A real collectors pearl. You will love it!
 
 The album is also available for download, e.g. on [iTunes ][2]
-![Brigitte Oelke - The Private Session Musicals Vol.1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bcc2a30707b8b4f01cb1700b52ef8311692e163.jpg)
+![Brigitte Oelke - The Private Session Musicals Vol.1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/47325c49cb0d775edad7c1710daf77157727f0af.jpg)
 
 [0]: http://theprivatesession.com/The_Private_Session_Musicals/
 [1]: http://recpublica.de/
