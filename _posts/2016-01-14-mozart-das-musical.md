@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Brigitte Oelke playing Cäcilia Weber
-datePublished: '2016-01-14T23:23:18.966Z'
-dateModified: '2016-01-14T23:22:36.257Z'
+datePublished: '2016-01-14T23:34:43.648Z'
+dateModified: '2016-01-14T23:30:46.839Z'
 title: 'MOZART! - Das Musical'
 author: []
 sourcePath: _posts/2016-01-14-mozart-das-musical.md
