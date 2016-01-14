@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Brigitte Oelke / The Private Session – Musicals Vol.1
-datePublished: '2016-01-14T21:59:58.727Z'
-dateModified: '2016-01-14T21:59:52.142Z'
+datePublished: '2016-01-14T22:02:54.144Z'
+dateModified: '2016-01-14T22:02:50.529Z'
 author: []
 title: Video-Teaser for my new album
 sourcePath: _posts/2016-01-14-video-teaser-for-my-new-album.md
@@ -27,6 +27,6 @@ Watch the german promo video and be satisfied by my new album
 _The Private Session -- Musicals Vol.1 _
 
 [https://youtu.be/vEdqiAZLTbs][0]
-![Photo: Lutz Edelhoff (c) 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68387675-76fa-451b-829d-70af3244005b.jpg)
+![Photo: Lutz Edelhoff (c) 2014](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f9a423bfaf7771088a2d7be82dd0d646f406cb6.jpg)
 
 [0]: null
