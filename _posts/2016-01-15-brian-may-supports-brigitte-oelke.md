@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: She Will Rock You
-datePublished: '2016-01-15T18:59:12.470Z'
-dateModified: '2016-01-15T18:59:12.183Z'
+datePublished: '2016-01-15T19:09:11.424Z'
+dateModified: '2016-01-15T19:09:07.738Z'
 title: 'Brian May is supporting Brigitte Oelke '
 author: []
 sourcePath: _posts/2016-01-15-brian-may-supports-brigitte-oelke.md
@@ -22,9 +22,8 @@ url: brian-may-is-supporting-brigitte-oelke/index.html
 _type: Article
 
 ---
-![Brigitte Oelke - Discover Me ! (EP)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/06457754221ff4c6d7ed956edda2a626d3c61e69.jpg)
-
 Since I knew I would become the worlds longest playing _Killer Queen_ in _WE WILL ROCK YOU - The original musical by Queen and Ben Elton_, I released a stunning Rock-EP called _**Discover Me !**_
+![Brigitte Oelke - Discover Me ! (EP)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7331136fe10b7caa681cce36ad5c809ec83a948a.jpg)
 
 With a little help from my dear friend_Frank Rohles __, _this EP turned out to become a finest collectors item. To be honest, Frank put unbelievably much of his soul to this rockin' jewel. He constantly kept on working real hard to help me and do a great debut in rock music. For this I am very grateful. It is very important to work with trustworthy people like him. Especially as I produced this music by myself .   
 Thank You, Frank!
