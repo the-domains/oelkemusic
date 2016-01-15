@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brigitte Oelke's new album «The Private Session Musicals Vol.1»"
-datePublished: '2016-01-15T19:03:12.185Z'
-dateModified: '2016-01-15T19:03:05.811Z'
+datePublished: '2016-01-15T19:03:12.423Z'
+dateModified: '2016-01-15T19:03:12.185Z'
 author: []
 title: Video-Teaser - The Private Session Musicals Vol.1
 sourcePath: _posts/2016-01-14-video-teaser-for-my-new-album.md
