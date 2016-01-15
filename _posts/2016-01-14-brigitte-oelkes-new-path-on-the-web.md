@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Beeing a founding member of THE GRID is exciting
-datePublished: '2016-01-15T19:04:22.529Z'
+datePublished: '2016-01-15T19:04:22.665Z'
 dateModified: '2016-01-15T19:04:22.403Z'
 title: "Brigitte Oelke's new path on the web"
 author: []
