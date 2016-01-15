@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: She Will Rock You
-datePublished: '2016-01-15T23:21:55.030Z'
+datePublished: '2016-01-15T23:21:55.093Z'
 dateModified: '2016-01-15T23:21:54.338Z'
 title: 'Brian May is supporting Brigitte Oelke '
 author: []
