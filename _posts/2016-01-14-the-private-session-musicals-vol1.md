@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-14T23:13:48.129Z'
-dateModified: '2016-01-14T23:13:17.265Z'
+datePublished: '2016-01-15T01:51:40.921Z'
+dateModified: '2016-01-15T01:51:31.662Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -22,30 +22,28 @@ publisher:
 _type: MediaObject
 
 ---
-Do you know my latest album -- [The Private Session Musicals Vol.1][0]?
+Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
 
 I put all my love into the production of this masterpiece and only worked with some of the best professionals nowadays.
 
-The Piano is played by Dominik Franke, a brilliant pianist and musical director who is working on many class A theatre productions.
+The Piano is played by _Dominik Franke_, a brilliant pianist and musical director who is working on many class A theatre productions.
 
-The cello is played by Ariane Spiegel, a member of the famous formation [NEO BAROCK][1] which were honored with one of the most important awards in european music business -- ECHO Klassik
+The cello is played by _Ariane Spiegel_, a member of the famous formation [_NEO BAROCK_][1] which were honored with one of the most important awards in european music business -- _[ECHO Klassik][2]_
 
-The music has been recorded at the [RecPublica Studios][2] with a rare FAZIOLI 228 Piano. The Studio was especially built for and around this excellent piano that will touch your soul.   
-By using some of the finest microphones on the market (Brauner; Neumann) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to [MasterLab][3], Berlin to get finished -- one of the leading mastering studios worldwide. 
+The music has been recorded at the [_RecPublica Studios_][3] with a rare _FAZIOLI 228_ Piano. The studio was especially built for and around this excellent piano that will touch your soul gently.   
+By using some of the finest microphones on the market (_Brauner_; _Neumann_) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to [_MasterLab_][4], Berlin to get finished -- one of the leading mastering studios worldwide. 
 
-Last but not least I created a very special first edition with a golden embossing print and a sticker of my logo, which is only available with the CD. A real collectors pearl. You will love it!
+Last but not least I created a very special first edition with a golden embossy print and a sticker, which is only available with the CD. A real collectors pearl. You will love it!
 
-Order the CD now at your favourite record store, e.g. 
+Order the CD now at your favourite record store, e.g. amazon
 
-The album is also available for download, e.g. on ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7ca596da5061f80cd41512b9c4ad43a/passthrough.jpg?height=520&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5eb816ede467f0e975c239229f67da28080db68a.jpg&width=750)
+The album is also available for download, e.g. on iTunes
+![The Private Session- Musicals Vol.1 ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c8f8d7acff59347b03c7606442dbf892c183f50.jpg)
 
-# The Private Session Musicals Vol.1
-
-Musicals straight to your heart by the european theatre star Brigitte Oelke
-
-Uploading Item...
+# 
 
 [0]: http://theprivatesession.com/The_Private_Session_Musicals/
 [1]: http://www.neobarock.de/
-[2]: http://recpublica.de/
-[3]: http://www.masterlab.de/
+[2]: https://youtu.be/Xl7oilQbLRQ
+[3]: http://recpublica.de/
+[4]: http://www.masterlab.de/
