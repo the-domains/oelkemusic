@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: Brigitte Oelke / The Private Session – Musicals Vol.1
-datePublished: '2016-01-14T22:02:54.144Z'
-dateModified: '2016-01-14T22:02:50.529Z'
+datePublished: '2016-01-15T01:41:12.860Z'
+dateModified: '2016-01-15T01:40:19.700Z'
 author: []
-title: Video-Teaser for my new album
+title: Video-Teaser - The Private Session Musicals Vol.1
 sourcePath: _posts/2016-01-14-video-teaser-for-my-new-album.md
 published: true
 authors: []
