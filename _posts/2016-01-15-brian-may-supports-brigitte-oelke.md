@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: She Will Rock You
-datePublished: '2016-01-15T14:07:57.907Z'
-dateModified: '2016-01-15T14:07:57.629Z'
+datePublished: '2016-01-15T14:19:04.373Z'
+dateModified: '2016-01-15T14:18:59.298Z'
 title: 'Brian May is supporting Brigitte Oelke '
 author: []
 sourcePath: _posts/2016-01-15-brian-may-supports-brigitte-oelke.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![Brigitte Oelke - Discover Me ! (EP)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d7fab4ca84909687eab5d025b094b2ba5c3a6c8.jpg)
+![Brigitte Oelke - Discover Me ! (EP)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eaf1209cfa2f3b17538bff28bb3b4db0be9491b.jpg)
 
 Since I knew I would become the worlds longest playing _Killer Queen_ in _WE WILL ROCK YOU - The original musical by Queen and Ben Elton_, I released a stunning Rock-EP called _DISCOVER ME !_
 
