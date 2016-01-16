@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.theprivatesession.com'
 inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-16T11:00:39.293Z'
-dateModified: '2016-01-16T11:00:38.457Z'
+datePublished: '2016-01-16T12:48:01.731Z'
+dateModified: '2016-01-16T12:47:54.938Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-private-session-musicals-vol1/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
