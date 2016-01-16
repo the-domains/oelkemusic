@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://youtu.be/5_D8_GpkqGc'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: She Will Rock You
-datePublished: '2016-01-16T00:04:00.175Z'
-dateModified: '2016-01-16T00:03:40.161Z'
+datePublished: '2016-01-16T00:07:24.626Z'
+dateModified: '2016-01-16T00:07:14.004Z'
 title: 'Brian May is supporting Brigitte Oelke '
 author: []
 sourcePath: _posts/2016-01-15-brian-may-supports-brigitte-oelke.md
@@ -30,6 +30,8 @@ With a little help from my dear friend_Frank Rohles __, _this EP turned out to b
 
 Thank You, Frank!
 ![Frank Rohles & Brigitte Oelke](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2ae1b735e95c4d1c3b8efb630d47eb67167cfe0.jpg)
+
+__
 
 _Frank Rohles_ aka _Mr. Rock'n'Rohles_ was the personal choice of _Brian May_ ([_Queen_][0]) to play the guitar for the german premiere of _WE WILL ROCK YOU - The original musical by Queen and Ben Elton_. _Brian May_ also picked him to be the Guitar Supervisor for the following productions of _WWRY_ in Toronto and Zurich. _Frank Rohles_ is one of THE rare _Queen_-Experts, if it comes to the music, that the master himself, Mr. May, is listening to. Therefore _Mr. Rock'n'Rohles_ created a killer-cover-version of _Queen_'s _Don't Stop Me Now_ which I am performing on my EP - _DISCOVER ME !_  
 And guess what ... Brian and Roger like it!
