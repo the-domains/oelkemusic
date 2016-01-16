@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brian May & Roger Taylor (Queen) supporting their Killer Queen, Brigitte Oelke'
-datePublished: '2016-01-16T15:22:22.408Z'
-dateModified: '2016-01-16T15:22:17.837Z'
+datePublished: '2016-01-16T17:35:20.682Z'
+dateModified: '2016-01-16T17:35:16.477Z'
 title: 'Brigitte Oelke - Discover Me !'
 author: []
 sourcePath: _posts/2016-01-16-brigitte-oelke-discover-me.md
@@ -30,7 +30,7 @@ With a little help from my dear friend _Frank Rohles_ , this EP turned out to be
 ![Frank Rohles](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdcc1168676960faff9f67978e1019c485df6001.jpg)
 
 _Frank Rohles_ aka _Mr. Rock'n'Rohles_ was the personal choice of _Brian May (Queen)_ to play the guitar for the german premiere of _WE WILL ROCK YOU - The musical by Queen and Ben Elton_. _Brian May_ also picked him to be the Guitar Supervisor for the following productions of _WWRY_ in _Toronto_ and _Zurich_. ![Brigitte Oelke - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5784c30bd2ed8fba1029e45bd309b137ca7c79e.jpg)
-![Frank Rohles - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dda62ec109e229fbe6eb25e85258ec24abc893cf.jpg)
+![Frank Rohles - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/601e00e7991cd67b87664476cb25974128b6c254.jpg)
 
 _Mr. Rock'n'Rohles_**** is one of the rare Queen-Experts, if it comes to the music, that the master himself, Mr. _May_, is listening to. Therefore _Frank Rohles_ created a killer-cover-version of _Queen's_ «_**Don't Stop Me Now»**_ which we perform on my EP - _**Discover Me !**_  
 A must-have for every _Queen_-Fan ... and guess what ...   
