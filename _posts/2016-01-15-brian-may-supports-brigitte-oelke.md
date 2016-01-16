@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://youtu.be/5_D8_GpkqGc'
 inLanguage: null
 starred: false
 keywords: []
 description: She Will Rock You
-datePublished: '2016-01-16T01:02:14.705Z'
-dateModified: '2016-01-16T01:02:14.233Z'
+datePublished: '2016-01-16T01:20:21.580Z'
+dateModified: '2016-01-16T01:20:13.428Z'
 title: 'Brian May is supporting Brigitte Oelke '
 author: []
 sourcePath: _posts/2016-01-15-brian-may-supports-brigitte-oelke.md
@@ -19,17 +18,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: brian-may-is-supporting-brigitte-oelke/index.html
+_type: Article
 
 ---
-![Brigitte Oelke - Discover Me ! (EP)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e57693c5733f06a9e772f0abeeb7ea0b1d382eaa.jpg)
-
 Since I knew I would become the worlds longest playing _Killer Queen_ of _WE  WILL ROCK YOU - The musical of Queen and Ben Elton_, I released a stunning Rock-EP called _**Discover Me ! **_
+![Brigitte Oelke - Discover Me ! (EP)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff12f3d49af59dab9b5dea906d5d71f1f812829c.jpg)
 
-With a little help from my dear friend_Frank Rohles __, _this EP turned out to become a secret collectors item. To be honest, Frank put unbelievably much of his soul to this rockin' jewel. He constantly kept on working real hard to help me and do a great debut in rock music. For this I am very grateful. It is very important to work with trustworthy people like him. Especially as I produced this music by myself . 
-
-Thank You, Frank!
-![Frank Rohles & Brigitte Oelke](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2ae1b735e95c4d1c3b8efb630d47eb67167cfe0.jpg)
+With a little help from my dear friend_Frank Rohles __, _this EP turned out to become a secret collectors item. To be honest, Frank put unbelievably much of his soul to this rockin' jewel. He constantly kept on working real hard to help me and do a great debut in rock music. For this I am very grateful. It is very important to work with trustworthy people like him. Especially as I produced this music by myself. ![Frank Rohles & Brigitte Oelke](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2ae1b735e95c4d1c3b8efb630d47eb67167cfe0.jpg)
 
 __
 
