@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-16T12:48:01.731Z'
-dateModified: '2016-01-16T12:47:54.938Z'
+datePublished: '2016-01-16T12:48:02.105Z'
+dateModified: '2016-01-16T12:48:01.731Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
