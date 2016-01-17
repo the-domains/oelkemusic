@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-16T12:48:02.105Z'
-dateModified: '2016-01-16T12:48:01.731Z'
+datePublished: '2016-01-16T21:17:23.028Z'
+dateModified: '2016-01-16T21:16:44.697Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -26,6 +26,8 @@ Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
 ![Brigitte Oelke - The Private Session Musicals Vol.1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ed8b5c626e93dfb39f63e62f98efb8cbd8eb8c9.jpg)
 
 I put all my love into the production of this masterpiece and only worked with some of the best professionals nowadays.
+
+Watch the german promotion video
 
 The Piano is played by _Dominik Franke_, a brilliant pianist and musical director who is working on many class A theatre productions.
 ![Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d723628caba8e35b24829675ff775067a7c17687.jpg)
@@ -46,8 +48,6 @@ Order the CD now at your favourite record store, e.g. amazon
 
 The album is also available for download, e.g. on iTunes
 
-[Watch the german promotion video][5]
-
 # 
 
 [0]: http://theprivatesession.com/The_Private_Session_Musicals/
@@ -55,4 +55,3 @@ The album is also available for download, e.g. on iTunes
 [2]: https://youtu.be/Xl7oilQbLRQ
 [3]: http://recpublica.de/
 [4]: http://www.masterlab.de/
-[5]: https://youtu.be/vEdqiAZLTbs
