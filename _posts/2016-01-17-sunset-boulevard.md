@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Brigitte Oelke in the role of Norma Desmond
-datePublished: '2016-01-17T08:26:02.637Z'
-dateModified: '2016-01-17T08:26:02.481Z'
+datePublished: '2016-01-17T11:19:08.166Z'
+dateModified: '2016-01-17T11:19:04.591Z'
 title: Sunset Boulevard
 author: []
 sourcePath: _posts/2016-01-17-sunset-boulevard.md
@@ -22,7 +22,9 @@ url: sunset-boulevard/index.html
 _type: Article
 
 ---
-On Sunday 17th, January I am turning into _Norma Desmond_ performing the final show of _Andrew Lloyd Webber's __**Sunset Boulevard**_ at the _Theater Bielefeld_, Germany. ![Brigitte Oelke (Norma Desmond) & Tom Zahner (Max von Meyerling)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92a35a64-f8ce-4ffb-a382-ca0a86563250.jpg)
+![Brigitte Oelke (Norma Desmond) & Tom Zahner (Max von Meyerling)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92a35a64-f8ce-4ffb-a382-ca0a86563250.jpg)
+
+On Sunday 17th, January 2016 I am turning into _Norma Desmond_ performing the final show of _Andrew Lloyd Webber's __**Sunset Boulevard**_ at the _Theater Bielefeld_, Germany. 
 
 I would like to thank all the lovely people back- and on-stage for their professional support. Only with such a team I was able to pull out the necessary emotions that touched the critics and the audience in the same way.
 
