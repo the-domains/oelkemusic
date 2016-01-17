@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-16T21:24:59.073Z'
-dateModified: '2016-01-16T21:24:58.564Z'
+datePublished: '2016-01-16T22:35:38.964Z'
+dateModified: '2016-01-16T21:47:40.545Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -38,11 +38,11 @@ The cello is played by _Ariane Spiegel_, a member of the famous formation [_NEO 
 The music has been recorded at the [_RecPublica Studios_][3] with a rare _FAZIOLI 228_ Piano. The studio was especially built for and around this excellent piano that will touch your soul gently. ![Brigitte Oelke & Michal Wasyl (Audio Engineer)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/332f7d9e6d40f83af1a70497249f112306c3546f.jpg)
 ![Ariane Spiegel (Cello) & Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/318ac9644667e53aca4e8919dc9a5691f64e934d.gif)
 
-By using some of the finest microphones on the market (_Brauner_; _Neumann_) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to [_MasterLab_][4], Berlin to get finished -- one of the leading mastering studios worldwide. ![Microphones on FAZIOLI 228](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1c0d24d107906f0d0657622d7972997c8a84671.jpg)
+By using some of the finest microphones on the market (_Brauner_; _Neumann_) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to [_MasterLab_][4], Berlin to get finished -- one of the leading mastering studios worldwide. ![Microphones on FAZIOLI 228](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b22d65a67c9fb4f52fe6fb290226229879f80010.jpg)
 ![Microphones on Cello](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96026f7b4274f9807a7dc6e874734f9783fe9c3f.jpg)
 
-Last but not least I created a very special first edition with a golden embossy print and a sticker, which is only available with the CD. A real collectors pearl. You will love it!
-![The Private Session- Musicals Vol.1 ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8f003b450078689c89a7a7acff4b931c8932e29.jpg)
+Last but not least I created a very special first edition of the Audio-CD with a golden embossy print and a sticker, which is only available with the CD. A real collectors pearl. You will love it!
+![The Private Session- Musicals Vol.1 ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d8156ef06de5aedfb4c9dd3f828a7501059881.jpg)
 
 Order the CD now at your favourite record store, e.g. amazon
 
