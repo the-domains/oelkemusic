@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/edit?o=U&video_id=vEdqiAZLTbs'
 inLanguage: null
 starred: false
 keywords: []
 description: "Brigitte Oelke's new album «The Private Session Musicals Vol.1»"
-datePublished: '2016-01-16T21:12:14.732Z'
-dateModified: '2016-01-16T21:12:09.860Z'
+datePublished: '2016-01-16T22:36:58.480Z'
+dateModified: '2016-01-16T22:36:55.205Z'
 author: []
 title: Video-Teaser - The Private Session Musicals Vol.1
 sourcePath: _posts/2016-01-14-video-teaser-for-my-new-album.md
@@ -18,7 +19,6 @@ publisher:
   domain: www.youtube.com
   url: null
   favicon: null
-url: video-teaser-the-private-session-musicals-vol1/index.html
 _context: 'http://schema.org'
 _type: Article
 
