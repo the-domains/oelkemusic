@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-16T22:35:39.661Z'
-dateModified: '2016-01-16T22:35:38.964Z'
+datePublished: '2016-01-16T22:45:07.303Z'
+dateModified: '2016-01-16T22:44:45.005Z'
 title: The Private Session Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -22,8 +22,9 @@ url: the-private-session-musicals-vol1/index.html
 _type: Article
 
 ---
-Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
 ![Brigitte Oelke - The Private Session Musicals Vol.1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ed8b5c626e93dfb39f63e62f98efb8cbd8eb8c9.jpg)
+
+Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
 
 I put all my love into the production of this masterpiece and only worked with some of the best professionals nowadays.
 
