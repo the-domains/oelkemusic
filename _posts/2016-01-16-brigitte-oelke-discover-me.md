@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brian May & Roger Taylor (Queen) supporting their Killer Queen, Brigitte Oelke'
-datePublished: '2016-01-20T17:52:58.053Z'
-dateModified: '2016-01-20T17:52:50.663Z'
+datePublished: '2016-01-22T02:15:26.212Z'
+dateModified: '2016-01-22T02:15:21.941Z'
 title: 'Brigitte Oelke «Discover Me !»'
 author: []
 sourcePath: _posts/2016-01-16-brigitte-oelke-discover-me.md
@@ -22,12 +22,11 @@ url: brigitte-oelke-discover-me/index.html
 _type: Article
 
 ---
-![Brigitte Oelke - Discover Me !](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d35f6ebc8732aa74f6637987ba7bc8f374c248f.jpg)
+![Brigitte Oelke - Discover Me !](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15a7ada09f74dd8c55744839bb4e7e8857218941.jpg)
 
 Since I knew I would become the worlds longest playing _Killer Queen_ in _WE WILL ROCK YOU - The musical by Queen and Ben Elton_, I have Releasetag a stunning Rock-EP named: _**Discover Me !**_
 
 With a little help from my dear friend _Frank Rohles_ , this EP turned out to become a secret collectors item. To be honest, Frank put unbelievably much of his soul to this rockin' jewel. He constantly kept on working real hard to help me and do a great debut in rock music. For this I am very grateful. Considering that I am producing on my own risk, it is very important to work with trustworthy people like him. Thank You, Frank!
-![Frank Rohles & Brigitte Oelke](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90e78228390ea1142b5f1063e11e736f5cda439.jpg)
 ![Frank Rohles](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdcc1168676960faff9f67978e1019c485df6001.jpg)
 
 _Frank Rohles_ aka _Mr. Rock'n'Rohles_ was the personal choice of _Brian May (Queen)_ to play the guitar for the german premiere of _WE WILL ROCK YOU - The musical by Queen and Ben Elton_. _Brian May_ also picked him to be the Guitar Supervisor for the following productions of _WWRY_ in _Toronto_ and _Zurich_. ![Brigitte Oelke - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ffaa7cc0bb69718a0a5efc7c5c0a7eca854699.jpg)
@@ -42,4 +41,5 @@ Frank also composed 4 new songs and one of them is an ode to the role of the _Ki
 Support the artist and try new music. Thank you!
 
 Watch the promo video: https://youtu.be/h9k55BaT8nw
+![Frank Rohles & Brigitte Oelke](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90e78228390ea1142b5f1063e11e736f5cda439.jpg)
 ![Brigitte Oelke aka Killer Queen (WWRY)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb63ea60375126ee3fcb55317ec655a3fca2b476.jpg)
