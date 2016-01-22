@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brian May & Roger Taylor (Queen) supporting their Killer Queen, Brigitte Oelke'
-datePublished: '2016-01-22T02:26:41.146Z'
-dateModified: '2016-01-22T02:26:16.317Z'
+datePublished: '2016-01-22T16:19:07.772Z'
+dateModified: '2016-01-22T16:19:02.929Z'
 title: 'Brigitte Oelke «Discover Me !»'
 author: []
 sourcePath: _posts/2016-01-16-brigitte-oelke-discover-me.md
@@ -22,7 +22,7 @@ url: brigitte-oelke-discover-me/index.html
 _type: Article
 
 ---
-![Brigitte Oelke - Discover Me !](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15a7ada09f74dd8c55744839bb4e7e8857218941.jpg)
+![Brigitte Oelke - Discover Me !](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca24c8f5fb16b32492e43be590dfa508e43f9e29.jpg)
 
 Since I knew I would become the worlds longest playing _Killer Queen_ in _WE WILL ROCK YOU - The musical by Queen and Ben Elton_, I have Releasetag a stunning Rock-EP named: _**Discover Me !**_
 
