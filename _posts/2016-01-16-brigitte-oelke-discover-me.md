@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brian May & Roger Taylor (Queen) supporting their Killer Queen, Brigitte Oelke'
-datePublished: '2016-01-22T02:17:40.595Z'
-dateModified: '2016-01-22T02:17:37.649Z'
+datePublished: '2016-01-22T02:26:40.908Z'
+dateModified: '2016-01-22T02:26:16.317Z'
 title: 'Brigitte Oelke «Discover Me !»'
 author: []
 sourcePath: _posts/2016-01-16-brigitte-oelke-discover-me.md
@@ -27,10 +27,10 @@ _type: Article
 Since I knew I would become the worlds longest playing _Killer Queen_ in _WE WILL ROCK YOU - The musical by Queen and Ben Elton_, I have Releasetag a stunning Rock-EP named: _**Discover Me !**_
 
 With a little help from my dear friend _Frank Rohles_ , this EP turned out to become a secret collectors item. To be honest, Frank put unbelievably much of his soul to this rockin' jewel. He constantly kept on working real hard to help me and do a great debut in rock music. For this I am very grateful. Considering that I am producing on my own risk, it is very important to work with trustworthy people like him. Thank You, Frank!
-![Frank Rohles](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdcc1168676960faff9f67978e1019c485df6001.jpg)
+![Frank Rohles](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4c378ecdedc0943eb8cf66e3d87cebfc05dfd96.jpg)
 
-_Frank Rohles_ aka _Mr. Rock'n'Rohles_ was the personal choice of _Brian May (Queen)_ to play the guitar for the german premiere of _WE WILL ROCK YOU - The musical by Queen and Ben Elton_. _Brian May_ also picked him to be the Guitar Supervisor for the following productions of _WWRY_ in _Toronto_ and _Zurich_. ![Brigitte Oelke - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ffaa7cc0bb69718a0a5efc7c5c0a7eca854699.jpg)
-![Frank Rohles - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f64802d3b26a02c1e0e82ca04f821525759c02c.jpg)
+_Frank Rohles_ aka _Mr. Rock'n'Rohles_ was the personal choice of _Brian May (Queen)_ to play the guitar for the german premiere of _WE WILL ROCK YOU - The musical by Queen and Ben Elton_. _Brian May_ also picked him to be the Guitar Supervisor for the following productions of _WWRY_ in _Toronto_ and _Zurich_. ![Brigitte Oelke - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c67d4a713621ef4d631b7d437e38fcd51cf6a4c9.jpg)
+![Frank Rohles - We Will Rock You](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b22013ad06711768785f570443423a47fa24f32b.jpg)
 
 _Mr. Rock'n'Rohles_**** is one of the rare Queen-Experts, if it comes to the music, that the master himself, Mr. _May_, is listening to. Therefore _Frank Rohles_ created a killer-cover-version of _Queen's_ «_**Don't Stop Me Now»**_ which we perform on my EP - _**Discover Me !**_  
 A must-have for every _Queen_-Fan ... and guess what ...   
@@ -42,4 +42,4 @@ Support the artist and try new music. Thank you!
 
 Watch the promo video: https://youtu.be/h9k55BaT8nw
 ![Frank Rohles & Brigitte Oelke](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90e78228390ea1142b5f1063e11e736f5cda439.jpg)
-![Brigitte Oelke aka Killer Queen (WWRY)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb63ea60375126ee3fcb55317ec655a3fca2b476.jpg)
+![Brigitte Oelke aka Killer Queen (WWRY)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35ba1812b6d3f4ee92edfa4d5d3db90158d00c8c.jpg)
