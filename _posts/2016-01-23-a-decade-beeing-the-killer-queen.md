@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 10th Anniversary of the german production of WE WILL ROCK YOU
-datePublished: '2016-01-23T22:55:33.479Z'
-dateModified: '2016-01-23T22:55:05.268Z'
-title: A decade beeing the Killer Queen
+datePublished: '2016-01-23T22:58:16.092Z'
+dateModified: '2016-01-23T22:58:09.487Z'
+title: Killer Queen for more than a decade
 author: []
+sourcePath: _posts/2016-01-23-a-decade-beeing-the-killer-queen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-a-decade-beeing-the-killer-queen.md
-published: true
 url: a-decade-beeing-the-killer-queen/index.html
 _type: Article
 
