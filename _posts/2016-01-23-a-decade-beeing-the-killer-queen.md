@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 10th Anniversary of the german production of WE WILL ROCK YOU
-datePublished: '2016-01-24T14:10:04.966Z'
+datePublished: '2016-01-24T14:10:05.110Z'
 dateModified: '2016-01-24T14:10:03.192Z'
 title: Killer Queen for more than a decade
 author: []
