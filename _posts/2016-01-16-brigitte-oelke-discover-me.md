@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brian May & Roger Taylor (Queen) supporting their Killer Queen, Brigitte Oelke'
-datePublished: '2016-01-24T14:12:03.345Z'
+datePublished: '2016-01-24T14:12:03.455Z'
 dateModified: '2016-01-24T14:11:50.535Z'
 title: 'Brigitte Oelke «Discover Me !»'
 author: []
