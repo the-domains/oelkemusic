@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-24T18:11:44.765Z'
-dateModified: '2016-01-24T18:11:36.498Z'
+datePublished: '2016-01-24T18:16:03.133Z'
+dateModified: '2016-01-24T18:15:55.106Z'
 title: The Private Session - Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -26,7 +26,7 @@ _type: Article
 
 Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
 
-I put all my love into the production of this masterpiece and only worked with some of the best professionals nowadays.
+RI put all my love into the production of this masterpiece and only worked with some of the best professionals nowadays.
 ![Ariane Spiegel (Cello) & Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f17446557ec35f444acb1490f37844f9b02e3a.gif)
 
 [Watch the german promotion video][1]
