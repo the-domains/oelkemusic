@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Final performance of Andrew Lloyd Webber's SUNSET BLVD. "
-datePublished: '2016-01-24T18:16:56.542Z'
+datePublished: '2016-01-24T18:16:56.544Z'
 dateModified: '2016-01-24T18:16:48.630Z'
 title: Bye Bye Bielefeld
 author: []
