@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Musicals straight to your heart
-datePublished: '2016-01-22T16:21:18.870Z'
-dateModified: '2016-01-22T16:21:15.453Z'
+datePublished: '2016-01-24T14:13:48.502Z'
+dateModified: '2016-01-24T14:13:40.224Z'
 title: The Private Session - Musicals Vol.1
 author: []
 sourcePath: _posts/2016-01-14-the-private-session-musicals-vol1.md
@@ -23,9 +23,10 @@ _type: Article
 
 ---
 Do you know my latest album -- [_The Private Session Musicals Vol.1_][0]?
-![Brigitte Oelke - The Private Session Musicals Vol.1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ec504c3eb49ad6f476fe65283c150bec9a73bf5.jpg)
+![Brigitte Oelke - The Private Session Musicals Vol.1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/561b49fe916175bb57892e3c794c6da69899694a.jpg)
 
 I put all my love into the production of this masterpiece and only worked with some of the best professionals nowadays.
+![Ariane Spiegel (Cello) & Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f17446557ec35f444acb1490f37844f9b02e3a.gif)
 
 [Watch the german promotion video][1]
 
@@ -36,7 +37,6 @@ The cello is played by _Ariane Spiegel_, a member of the famous formation [_NEO 
 ![Ariane Spiegel (Cello)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1467fa6edd3781cfc169911400b09b554ecda8d6.jpg)
 
 The music has been recorded at the [_RecPublica Studios_][4] with a rare _FAZIOLI 228_ Piano. The studio was especially built for and around this excellent piano that will touch your soul gently. ![Brigitte Oelke & Michal Wasyl (Audio Engineer)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdd829b139f8b3eddae8a753bd4b2499ec97a74b.jpg)
-![Ariane Spiegel (Cello) & Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f17446557ec35f444acb1490f37844f9b02e3a.gif)
 
 By using some of the finest microphones on the market (_Brauner_; _Neumann_) we ensured that you will listen to an excellent quality of sound. To complete your listening-experience I took the recordings to [_MasterLab_][5], Berlin to get finished -- one of the leading mastering studios worldwide. ![Microphones on FAZIOLI 228](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db64ed45e31ea40b3f6e475147d57174a5d1c8a4.jpg)
 ![Microphones on Cello](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d85b82cb4bce04a1d02e7272efce9cfa229cea89.jpg)
