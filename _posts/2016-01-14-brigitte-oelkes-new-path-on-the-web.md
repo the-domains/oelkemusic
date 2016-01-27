@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.brigitteoelke.com'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Beeing a founding member of THE GRID is exciting
-datePublished: '2016-01-27T00:14:42.691Z'
-dateModified: '2016-01-27T00:14:38.707Z'
+datePublished: '2016-01-27T21:44:27.978Z'
+dateModified: '2016-01-27T21:44:26.713Z'
 title: "Brigitte Oelke's new path on the web"
 author: []
 sourcePath: _posts/2016-01-14-brigitte-oelkes-new-path-on-the-web.md
@@ -25,4 +25,4 @@ _type: MediaObject
 I am satisfied to participate the future of the internet by beeing a Founding Member on THE GRID. While this stunning new service is in the tryout, I will start using it to let you participate on my activities. I really look forward to create an exciting place for you to find out more about my work and life as an artist.   
 ALOHA!   
 Brigitte Oelke
-![Brigitte Oelke - Actress, Singer, Producer](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbd9c04984a53c29dfa934f79dade245c3002ebe.jpg)
+![Brigitte Oelke - Actress, Singer, Producer](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a3cb448f586285accd8a1ac4fcd1c6485c61a5a.jpg)
