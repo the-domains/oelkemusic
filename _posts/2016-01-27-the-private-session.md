@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: "The Private Session - Brigitte Oelke's first acoustic album"
-datePublished: '2016-01-27T15:42:36.893Z'
-dateModified: '2016-01-27T15:42:34.186Z'
+datePublished: '2016-01-27T15:44:37.355Z'
+dateModified: '2016-01-27T15:44:33.744Z'
 author: []
 related: []
 app_links: []
@@ -25,9 +25,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![StagePeople LC27880](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d160adb6e914bd1b127dd0035568a24f87a89760.png)
+![Brigitte Oelke // The Private Session](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b3b9532-7630-40f1-a8b7-b31e69aabc22.jpg)
 
-In 2010 we were founding our own little music label called [StagePeople][0]. The first release was in 2011 with the debut of »_**The Private Session**_«. The idea behind this album was to professionally minimalize some of the most beautiful pop- and rocksongs and purely present them only with vocals, guitar and piano. ![Brigitte Oelke // The Private Session](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b3b9532-7630-40f1-a8b7-b31e69aabc22.jpg)
+In 2010 we were founding our own little music label called [StagePeople][0]. The first release was in 2011 with the debut of »_**The Private Session**_«. The idea behind this album was to professionally minimalize some of the most beautiful pop- and rocksongs and purely present them only with vocals, guitar and piano. ![StagePeople LC27880](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d160adb6e914bd1b127dd0035568a24f87a89760.png)
 
 With the support of my dear friend [Frank Rohles][1] I was collecting my first experiences as a producer and the result is this beautiful piece of art.
 
