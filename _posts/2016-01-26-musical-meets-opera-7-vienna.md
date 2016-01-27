@@ -7,20 +7,20 @@ inLanguage: de
 starred: false
 keywords: []
 description: On Sunday 14th February 2016B – MUSICAL MEETS OPERA with Brigitte Oelke
-datePublished: '2016-01-26T23:32:10.994Z'
-dateModified: '2016-01-26T23:31:59.952Z'
+datePublished: '2016-01-27T14:50:00.211Z'
+dateModified: '2016-01-27T14:49:57.465Z'
 author: []
 related: []
 app_links: []
 title: MUSICAL MEETS OPERA 7 (Vienna)
+sourcePath: _posts/2016-01-26-musical-meets-opera-7-vienna.md
+published: true
 authors: []
 publisher:
   name: Musicalvienna
   domain: www.musicalvienna.at
   url: 'http://www.musicalvienna.at'
   favicon: 'http://www.musicalvienna.at/images/musical/favicon.ico'
-sourcePath: _posts/2016-01-26-musical-meets-opera-7-vienna.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -30,7 +30,7 @@ On Sunday 14th, February 2016 I will be part of the 11:00 Matinée **_MUSICAL ME
 If you're in Vienna and want to join us, [please order your Tickets here][0].  
 But hurry, it is nearly sold out!
 
-<article style=""><h1>Musical Vienna - Aktuelles - MUSICAL MEETS OPERA 7</h1><p>Am Sonntag&amp;comma; 14&amp;period; Februar 2016&amp;comma; findet heuer bereits zum siebenten Mal um 11&amp;period;00 Uhr die Matinee von MUSICAL MEETS OPERA - „Vom Zauber der Musik" im Wiener Raimund Theater statt&amp;period; MUSICAL MEETS OPERA ist eine Veranstaltung für Musikbegeisterte aus Oper und Musical&amp;period;</p><img src="http://www.musicalvienna.at/index.php/binaries/asset/co_text_paragraph_image/205675/large_teaser/0/728x247_Mozart_2015_Slide15.jpg" /></article>
+<article style=""><h1>Musical Vienna - Aktuelles - MUSICAL MEETS OPERA 7</h1><p>Am Sonntag, 14. Februar 2016, findet heuer bereits zum siebenten Mal um 11.00 Uhr die Matinee von MUSICAL MEETS OPERA - &amp;bdquo;Vom Zauber der Musik" im Wiener Raimund Theater statt. MUSICAL MEETS OPERA ist eine Veranstaltung für Musikbegeisterte aus Oper und Musical.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97b92f3666719d757eec7b82da3a7dce82c36261.jpg" /></article>
 
 
 
