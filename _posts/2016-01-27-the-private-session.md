@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://theprivatesession.com/'
 inLanguage: de
 starred: false
 keywords: []
 description: "The Private Session - Brigitte Oelke's first acoustic album"
-datePublished: '2016-01-27T15:51:49.601Z'
-dateModified: '2016-01-27T15:51:47.558Z'
+datePublished: '2016-01-27T21:38:29.559Z'
+dateModified: '2016-01-27T21:29:56.142Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: theprivatesession.com
   url: 'http://theprivatesession.com'
   favicon: null
+url: the-private-session/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
