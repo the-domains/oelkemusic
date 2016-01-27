@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 10th Anniversary of the german production of WE WILL ROCK YOU
-datePublished: '2016-01-27T21:06:43.387Z'
-dateModified: '2016-01-27T21:06:25.879Z'
+datePublished: '2016-01-27T21:13:37.214Z'
+dateModified: '2016-01-27T21:13:13.921Z'
 title: Killer Queen for more than a decade
 author: []
 sourcePath: _posts/2016-01-23-a-decade-beeing-the-killer-queen.md
@@ -18,11 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: a-decade-beeing-the-killer-queen/index.html
-_type: Article
+_type: Blurb
 
 ---
-In 2015 I was having a great time in Vienna, playing the _Killer Queen_ in _**[WE WILL ROCK YOU][0]**_. ![Brian May & Roger Taylor, Brigitte Oelke (KiIller Queen) and the cast of WE WILL ROCK YOU](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ca3e2a86151ac0ddc60b1891ccbe75551968e30.jpg)
+In 2015 I was having a great time in Vienna, playing the _Killer Queen_ in _**[WE WILL ROCK YOU][0]**_
+![Brian May & Roger Taylor, Brigitte Oelke (KiIller Queen) and the cast of WE WILL ROCK YOU](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ca3e2a86151ac0ddc60b1891ccbe75551968e30.jpg)
 
 The coolest thing about it was that _Queen_ were playing in the same Venue at the same time. Brian, Roger and me were having the anniversary of playing the german production of _**[WE WILL ROCK YOU][0]**_ for more than a decade.  Aaaand I was having  a day-off. What a lovely twist of fate!
 ![Queen live in Vienna 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a5fb9831ed6c0353f44235e748127331389a028.jpg)
