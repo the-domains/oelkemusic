@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brigitte Oelke's acoustic album »The Private Session« and Rock-EP »Discover Me !«"
-datePublished: '2016-01-27T15:44:01.158Z'
-dateModified: '2016-01-27T15:43:58.494Z'
+datePublished: '2016-01-27T15:47:15.370Z'
+dateModified: '2016-01-27T15:47:12.935Z'
 author: []
 title: The other two CDs
 sourcePath: _posts/2016-01-27-the-other-two-cds.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Brigitte Oelke - Killer Queen](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/s720x720/10940607_619608921478901_5579818368556586965_n.jpg?oh=5d44fefcb5a7f3c343451f26982845dc&oe=573BA8D2)
+![Brigitte Oelke - Killer Queen](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3bae94139985e7d72f0a29c074b2e75ad37fd13.jpg)
 
 Before my latest album »**The Private Session Musicals Vol.1**« has been released, I was producing two amazing CDs. 
 
