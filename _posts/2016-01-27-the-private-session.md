@@ -7,7 +7,7 @@ inLanguage: de
 starred: false
 keywords: []
 description: "The Private Session - Brigitte Oelke's first acoustic album"
-datePublished: '2016-01-27T15:12:16.626Z'
+datePublished: '2016-01-27T15:12:16.678Z'
 dateModified: '2016-01-27T15:12:12.540Z'
 author: []
 related: []
