@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brigitte Oelke's acoustic album »The Private Session« and Rock-EP »Discover Me !«"
-datePublished: '2016-01-27T15:44:01.140Z'
+datePublished: '2016-01-27T15:44:01.158Z'
 dateModified: '2016-01-27T15:43:58.494Z'
 author: []
 title: The other two CDs
