@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Beeing a founding member of THE GRID is exciting
-datePublished: '2016-01-27T22:01:43.811Z'
-dateModified: '2016-01-27T22:01:39.898Z'
+datePublished: '2016-01-28T11:27:26.345Z'
+dateModified: '2016-01-28T11:27:21.266Z'
 title: "Brigitte Oelke's new path on the web"
 author: []
 sourcePath: _posts/2016-01-14-brigitte-oelkes-new-path-on-the-web.md
@@ -22,7 +22,8 @@ publisher:
 _type: MediaObject
 
 ---
+![Brigitte Oelke - Actress, Singer, Producer](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c5d660d11755697a0df000c149f215e5937af53.jpg)
+
 I am satisfied to participate the future of the internet by beeing a Founding Member on THE GRID. While this stunning new service is in the tryout, I will start using it to let you participate on my activities. I really look forward to create an exciting place for you to find out more about my work and life as an artist.   
 ALOHA!   
 Brigitte Oelke
-![Brigitte Oelke - Actress, Singer, Producer](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0064111a5b0040926f354c4f06da16952d6cfdce.jpg)
