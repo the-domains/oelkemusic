@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Final performance of Andrew Lloyd Webber's SUNSET BLVD. "
-datePublished: '2016-01-24T18:16:56.546Z'
-dateModified: '2016-01-24T18:16:48.630Z'
+datePublished: '2016-01-28T11:40:28.537Z'
+dateModified: '2016-01-28T11:40:18.469Z'
 title: Bye Bye Bielefeld
 author: []
 sourcePath: _posts/2016-01-22-bye-bye-bielefeld.md
@@ -22,7 +22,7 @@ publisher:
 _type: MediaObject
 
 ---
-![The cast of SUNSET BLVD.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58f50c803474c6a51d33696357186e03b3089425.jpg)
+![The cast of SUNSET BLVD.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72bd000cab0a6169794ffe35e734ae9bc40fae88.jpg)
 
 We were experiencing an amazing final performance of _Andrew Lloyd Webbe__r's _**_SUNSET BLVD _**at the _Theater Bielfeld_. It was sold out since a while and we all had that magical feeling of playing such a masterpiece for the final time. It was a great honor to me playing the role of _Norma Desmond_ and I guess my colleagues will feel about playing their role in a similar way. It is always a great pleasure to play on this stage with that beautiful spirit and all this lovely and supporting people backstage.
 
