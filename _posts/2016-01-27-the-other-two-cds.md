@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brigitte Oelke's acoustic album »The Private Session« and Rock-EP »Discover Me !«"
-datePublished: '2016-01-27T15:47:15.414Z'
-dateModified: '2016-01-27T15:47:12.935Z'
+datePublished: '2016-01-28T11:20:19.503Z'
+dateModified: '2016-01-28T11:20:16.734Z'
 author: []
 title: The other two CDs
 sourcePath: _posts/2016-01-27-the-other-two-cds.md
@@ -23,9 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Brigitte Oelke - Killer Queen](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3bae94139985e7d72f0a29c074b2e75ad37fd13.jpg)
+L
 
-Before my latest album »**The Private Session Musicals Vol.1**« has been released, I was producing two amazing CDs. 
+Before my latest album »**The Private Session Musicals Vol.1**« has been released, I was producing two amazing CDs. ![Brigitte Oelke - Killer Queen](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3bae94139985e7d72f0a29c074b2e75ad37fd13.jpg)
 
 »**The Private Session**« -- Finest acoustic music with voice, guitar and piano  
 »**Discover Me !**« -- Finest rock music by the actress of the original german  _Killer Queen_ from _[WE WILL ROCK YOU - The musical by Queen and Ben Elton][0]_
