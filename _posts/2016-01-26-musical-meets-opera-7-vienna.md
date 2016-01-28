@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musicalvienna.at/index.php/de/aktuelles/article/205674'
 inLanguage: de
-starred: false
+starred: true
 keywords: []
 description: On Sunday 14th February 2016B – MUSICAL MEETS OPERA with Brigitte Oelke
-datePublished: '2016-01-28T11:48:18.446Z'
-dateModified: '2016-01-28T11:48:02.933Z'
+datePublished: '2016-01-28T22:14:44.664Z'
+dateModified: '2016-01-28T22:14:39.584Z'
 author: []
 related: []
 app_links: []
