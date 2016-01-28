@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Brigitte Oelke in the role of Norma Desmond
-datePublished: '2016-01-24T16:21:16.376Z'
-dateModified: '2016-01-24T16:21:13.366Z'
+datePublished: '2016-01-28T11:39:03.428Z'
+dateModified: '2016-01-28T11:38:54.392Z'
 title: Sunset Boulevard
 author: []
 sourcePath: _posts/2016-01-17-sunset-boulevard.md
@@ -22,9 +22,9 @@ url: sunset-boulevard/index.html
 _type: Article
 
 ---
-On Sunday 17th, January 2016 I am transforming into _Norma Desmond, _performing the final show of _Andrew Lloyd Webber's __**Sunset Boulevard**_ at the _Theater Bielefeld_, Germany. ![Brigitte Oelke & Tom Zahner](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b08248d3-2211-4eb9-b280-325bce74f5c0.jpg)
+On Sunday 17th, January 2016 I am transforming into _Norma Desmond, _performing the final show of _Andrew Lloyd Webber's __**Sunset Boulevard**_ at the _Theater Bielefeld_, Germany. ![Brigitte Oelke & Tom Zahner](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/444000b35feadf6674cc8fe116a8bfc9/croprotate.jpg?cropheight=800&cropwidth=805&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fde21e28980f1fb08d6a6009e7f7d8611bf08487a.jpg&x=0&y=0)
 
 I would like to thank all the lovely people back- and on-stage for their professional support. Only with such a team I was able to pull out the necessary emotions that touched the critics and the audience in the same way.
 
 Tonight the show will be sold-out and I guess it will be a magical derniere! And now Mr. DeMille, I am prepared for the close-up ...
-![Brigitte Oelke is Norma Desmond](https://s3-us-west-2.amazonaws.com/the-grid-img/p/935809953907e452260b6cbaff6ba1cf170c4701.jpg)
+![Brigitte Oelke is Norma Desmond](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e70c91cba384bcd407693556b4683fd049d02723.jpg)
