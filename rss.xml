@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke - Singer/ Actress/ Producer]]></description>
         <link>https://thegrid.ai/oelkemusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 23:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 23:54:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemusic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.musicalvienna.at/index.php/de/aktuelles/article/205674</link>
             <guid isPermaLink="false">777d84a0-1ca0-423d-bd8c-200c53191a2f</guid>
             <pubDate>Thu, 28 Jan 2016 23:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Queen posted this photo on 2015-02-02&period; 587 likes&period; 23 comments&period; 28 shares&period;" src="https://scontent.xx.fbcdn.net/hphotos-xaf1/t31.0-8/s720x720/10960527_10152716261817362_3189972151845789841_o.jpg">]]></description>
+            <link>https://www.facebook.com/Queen/photos/pcb.10152716266557362/10152716261817362/?type=3&amp;theater</link>
+            <guid isPermaLink="false">e94c1068-a7e7-46df-b0e5-d7c290a43477</guid>
+            <pubDate>Mon, 01 Feb 2016 23:53:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/oelkemusic/sunset-boulevard/index.html</link>
             <guid isPermaLink="false">c4e03820-86d7-451c-9527-e089148e4279</guid>
             <pubDate>Thu, 28 Jan 2016 11:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brigitte Oelke «Discover Me !»]]></title>
-            <description><![CDATA[<article><h1>Brigitte Oelke «Discover Me !»</h1><p>Mr. Rock'n'Rohles is one of the rare Queen-Experts, if it comes to the music, that the master himself, Mr. May, is listening to. Therefore Frank Rohles created a killer-cover-version of Queen's «Don't Stop Me Now» which we perform on my EP - Discover Me !A must-have for every Queen-Fan ... and guess what ... Brian and Roger like it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8d33fafd68a2ab6cf8b094ddb9af4d6998feb7d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/oelkemusic/brigitte-oelke-discover-me/index.html</link>
-            <guid isPermaLink="false">75d0a91a-b362-4505-8d83-f08053b652d2</guid>
-            <pubDate>Thu, 28 Jan 2016 11:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
