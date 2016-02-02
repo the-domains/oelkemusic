@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke - Singer/ Actress/ Producer]]></description>
         <link>https://thegrid.ai/oelkemusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 23:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 00:14:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemusic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.musicalvienna.at/index.php/de/aktuelles/article/205674</link>
             <guid isPermaLink="false">777d84a0-1ca0-423d-bd8c-200c53191a2f</guid>
             <pubDate>Thu, 28 Jan 2016 23:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Queen posted this photo on 2015-02-02&period; 389 likes&period; 14 comments&period; 3 shares&period;" src="https://scontent.xx.fbcdn.net/hphotos-xft1/t31.0-8/s720x720/10495052_10152716261802362_4137482505053440844_o.jpg">]]></description>
+            <link>https://www.facebook.com/Queen/photos/pcb.10152716266557362/10152716261802362/?type=3&amp;theater</link>
+            <guid isPermaLink="false">8fe2d0fc-023d-4bd7-af58-3eee37ea824f</guid>
+            <pubDate>Tue, 02 Feb 2016 00:13:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://brigitteoelke.com/Timeline/page54/</link>
             <guid isPermaLink="false">e8aa4f57-f6ec-4695-b243-0542e63bae84</guid>
             <pubDate>Thu, 28 Jan 2016 11:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Boulevard]]></title>
-            <description><![CDATA[<article><h1>Sunset Boulevard</h1><p>On Sunday 17th, January 2016 I am transforming into Norma Desmond, performing the final show of Andrew Lloyd Webber's Sunset Boulevard at the Theater Bielefeld, Germany. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26d6c3c558b3bf528ad44efb604328dd419feb70.jpg"></article>]]></description>
-            <link>https://thegrid.ai/oelkemusic/sunset-boulevard/index.html</link>
-            <guid isPermaLink="false">c4e03820-86d7-451c-9527-e089148e4279</guid>
-            <pubDate>Thu, 28 Jan 2016 11:39:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
