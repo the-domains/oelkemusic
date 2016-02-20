@@ -1,20 +1,8 @@
-title: Brigitte Oelke - Singer/ Actress/ Producer
-cta:
-  domain: null
-  version: null
-  bucket: null
-layout_spectrum: 1
+name: Brigitte Oelke
 favicon: null
-name: oelkemusic
-purpose: []
-analytics:
-  facebook: null
-  google: UA-35197250-2
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 1
+typography_spectrum: 0.6255319
+title: Brigitte Oelke - Singer/ Actress/ Producer
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-35197250-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.2957447
-  lightness: 0.5
-  saturation: 0.4983137
-  rhythmicContrast: 0.817032
   brandColors:
     - '#070a05'
     - '#fafafa'
     - '#bfbcb0'
     - '#818272'
     - '#732106'
-typography_spectrum: 0.6255319
+  brandStrength: 0.2957447
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 1
+purpose: []
