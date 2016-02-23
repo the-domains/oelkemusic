@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.facebook.com/Queen/photos/pcb.10152716266557362/10152716261802362/?type=3&theater'
+inLanguage: null
+starred: false
+keywords: []
+description: Queen posted this photo on 2015-02-02. 389 likes. 14 comments. 3 shares.
+datePublished: '2016-02-23T04:18:18.372Z'
+dateModified: '2016-02-23T04:18:10.698Z'
 author:
   - name: Queen
     url: 'http://facebook.com/17337462361'
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
-keywords: []
-description: Queen posted this photo on 2015-02-02. 389 likes. 14 comments. 3 shares.
 title: ''
 app_links:
   - url: 'fb://photo/10152716261802362'
@@ -21,14 +24,14 @@ app_links:
     type: ios
     app_name: Facebook
     app_store_id: '284882215'
-isBasedOnUrl: 'https://www.facebook.com/Queen/photos/pcb.10152716266557362/10152716261802362/?type=3&theater'
-datePublished: '2016-02-02T00:13:53.257Z'
-dateModified: '2016-02-02T00:12:39.649Z'
 sourcePath: _posts/2016-02-02-queen-posted-this-photo-on-2015-02-02-389-likes-14-comment.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Facebook
+  domain: www.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
