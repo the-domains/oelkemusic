@@ -1,16 +1,16 @@
 title: Brigitte Oelke - Singer/ Actress/ Producer
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 0.6476846
 favicon: null
 name: Brigitte Oelke
 purpose: []
 analytics:
-  twitter: null
-  google: UA-35197250-2
   facebook: null
+  google: UA-35197250-2
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -30,8 +30,8 @@ collections:
 color:
   brandStrength: 1
   lightness: 0.1082603
-  saturation: 0.5625
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0
   brandColors:
     - '#070a05'
     - '#fafafa'
