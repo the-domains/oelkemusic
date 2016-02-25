@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T11:54:55.888Z'
-dateModified: '2016-02-25T11:40:39.497Z'
+datePublished: '2016-02-25T11:57:28.344Z'
+dateModified: '2016-02-25T11:57:21.776Z'
 title: Disclaimer
 author: []
 sourcePath: _posts/2016-02-25-datenschutzerklarung.md
@@ -22,7 +22,7 @@ url: datenschutzerklarung/index.html
 _type: WebPage
 
 ---
-ENGLISH
+Die deutsche Version befindet sich weiter unten.
 
 ****Limitation of liability for internal content****
 
