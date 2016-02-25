@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Queen posted this photo on 2015-02-02. 389 likes. 14 comments. 3 shares.
-datePublished: '2016-02-23T12:45:54.666Z'
-dateModified: '2016-02-23T12:45:03.470Z'
+datePublished: '2016-02-25T11:18:36.715Z'
+dateModified: '2016-02-25T11:17:27.273Z'
 author:
   - name: Queen
     url: 'http://facebook.com/17337462361'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Queen posted this photo on 2015-02-02. 389 likes. 14 comments. 3 shares.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/06b26807fce5fa0b8fbe633c2eae9e890ed6646e.jpg)
+![Queen posted this photo on 2015-02-02](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bec1a45ec84eedc033eb237892ffc85f6c4e428.jpg)
