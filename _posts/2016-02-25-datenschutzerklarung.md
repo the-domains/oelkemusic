@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T11:38:53.370Z'
-dateModified: '2016-02-25T11:38:46.679Z'
-title: Datenschutzerklärung
+datePublished: '2016-02-25T11:54:55.888Z'
+dateModified: '2016-02-25T11:40:39.497Z'
+title: Disclaimer
 author: []
 sourcePath: _posts/2016-02-25-datenschutzerklarung.md
 published: true
