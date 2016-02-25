@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '<a href="http://www.stagepeople.com">'
-datePublished: '2016-02-25T12:04:13.157Z'
-dateModified: '2016-02-25T12:03:59.032Z'
+datePublished: '2016-02-25T12:27:23.784Z'
+dateModified: '2016-02-25T12:27:13.917Z'
 title: Imprint
 author: []
 sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
@@ -31,4 +31,6 @@ D-12161 Berlin
 GERMANY  
 T +49 171 9849586  
 UID: DE252372105  
-e-mail
+[e-mail][0]
+
+[0]: http://www.stagepeople.com/
