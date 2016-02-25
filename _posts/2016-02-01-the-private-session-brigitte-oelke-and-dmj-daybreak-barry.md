@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brigitte Oelke presenting »The Private Session LIVE« ▴ http://www.theprivatesession.com ▴ Live at the LOKremise, Saint Gall (CH) 2013 ▴ Vocals: Brigitte Oelke & David-Michael Johnson ▴ Guitar: Frank Rohles ▴ Piano: Marco Lehnertz'
-datePublished: '2016-02-01T23:45:50.571Z'
-dateModified: '2016-02-01T23:45:41.639Z'
+datePublished: '2016-02-25T11:19:02.235Z'
+dateModified: '2016-02-25T11:18:02.736Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -15,14 +15,14 @@ author:
 related: []
 app_links: []
 title: 'The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)'
+sourcePath: _posts/2016-02-01-the-private-session-brigitte-oelke-and-dmj-daybreak-barry.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-02-01-the-private-session-brigitte-oelke-and-dmj-daybreak-barry.md
-published: true
 url: the-private-session-brigitte-oelke-and-dmj-daybreak-barry/index.html
 _type: VideoObject
 _context: 'http://schema.org'
