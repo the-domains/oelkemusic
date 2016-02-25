@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-25T11:53:56.878Z'
-dateModified: '2016-02-25T11:53:49.725Z'
-title: '<a href="http://www.stagepeople.com">Imprint'
+description: '<a href="http://www.stagepeople.com">'
+datePublished: '2016-02-25T12:02:39.495Z'
+dateModified: '2016-02-25T11:58:00.308Z'
+title: Imprint
 author: []
+sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
-published: true
 url: lessa-hrefhttpwwwstagepeoplecomgreaterimprint/index.html
 _type: WebPage
 
