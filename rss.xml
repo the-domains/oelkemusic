@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke - Singer/ Actress/ Producer]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 20:41:52 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -12,6 +12,13 @@
             <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
             <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
             <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)]]></title>
+            <description><![CDATA[<article><h1>The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)</h1><p>With »The Private Session LIVE« I am sharing a lot of interesting and funny stories that happened on- and offstage and like to get in response with the audience. Every performance becomes a unique experience and we are having a lot of fun together.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a89436743585112c9a54a88390c1deec6b90350.jpg"></article>]]></description>
+            <link>http://oelkemusic.com/the-private-session-brigitte-oelke-and-dmj-daybreak-barry/index.html</link>
+            <guid isPermaLink="false">9eb33ca0-1891-419f-8fd8-3af9d815583c</guid>
+            <pubDate>Sat, 05 Mar 2016 20:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video-Teaser «The Private Session - Musicals Vol. 1»]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.musicalvienna.at/index.php/de/aktuelles/article/205674</link>
             <guid isPermaLink="false">777d84a0-1ca0-423d-bd8c-200c53191a2f</guid>
             <pubDate>Tue, 23 Feb 2016 04:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bec1a45ec84eedc033eb237892ffc85f6c4e428.jpg" alt="Queen posted this photo on 2015-02-02" title="">]]></description>
-            <link>https://www.facebook.com/Queen/photos/pcb.10152716266557362/10152716261802362/?type=3&amp;theater</link>
-            <guid isPermaLink="false">8fe2d0fc-023d-4bd7-af58-3eee37ea824f</guid>
-            <pubDate>Thu, 25 Feb 2016 11:18:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
