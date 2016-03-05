@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T14:47:35.116Z'
-dateModified: '2016-03-05T14:42:30.685Z'
+datePublished: '2016-03-05T14:57:12.861Z'
+dateModified: '2016-03-05T14:53:17.641Z'
 title: Disclaimer
 author: []
 sourcePath: _posts/2016-02-25-datenschutzerklarung.md
