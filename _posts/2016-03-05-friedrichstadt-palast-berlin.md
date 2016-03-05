@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T15:33:51.386Z'
-dateModified: '2016-03-05T15:33:27.032Z'
+datePublished: '2016-03-05T15:37:51.714Z'
+dateModified: '2016-03-05T15:37:37.760Z'
 author: []
 title: THE ONE
 sourcePath: _posts/2016-03-05-friedrichstadt-palast-berlin.md
