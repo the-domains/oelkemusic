@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brigitte Oelke presenting »The Private Session LIVE« ▴ http://www.theprivatesession.com ▴ Live at the LOKremise, Saint Gall (CH) 2013 ▴ Vocals: Brigitte Oelke & David-Michael Johnson ▴ Guitar: Frank Rohles ▴ Piano: Marco Lehnertz'
-datePublished: '2016-03-05T20:41:02.196Z'
-dateModified: '2016-03-05T20:40:46.388Z'
+datePublished: '2016-03-05T20:41:34.331Z'
+dateModified: '2016-03-05T20:41:07.541Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
