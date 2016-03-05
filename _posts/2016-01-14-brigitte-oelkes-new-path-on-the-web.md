@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.brigitteoelke.com'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Beeing a founding member of THE GRID is exciting
-datePublished: '2016-01-28T11:27:26.345Z'
-dateModified: '2016-01-28T11:27:21.266Z'
+datePublished: '2016-03-05T14:59:03.671Z'
+dateModified: '2016-03-05T14:58:42.753Z'
 title: "Brigitte Oelke's new path on the web"
 author: []
 sourcePath: _posts/2016-01-14-brigitte-oelkes-new-path-on-the-web.md
