@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '<a href="http://www.stagepeople.com">'
-datePublished: '2016-02-25T12:27:23.784Z'
-dateModified: '2016-02-25T12:27:13.917Z'
+datePublished: '2016-03-05T11:32:07.031Z'
+dateModified: '2016-03-05T11:31:47.436Z'
 title: Imprint
 author: []
 sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
