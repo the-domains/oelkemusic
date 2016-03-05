@@ -1,6 +1,6 @@
 name: Brigitte Oelke
 favicon: null
-layout_spectrum: 0.50159
+layout_spectrum: 0.5383
 typography_spectrum: 0.3635795
 title: Brigitte Oelke - Singer/ Actress/ Producer
 collections:
@@ -35,7 +35,7 @@ color:
     - '#3f1f10'
     - '#bc6e3c'
   brandStrength: 1
-  lightness: 0.3125
+  lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
 purpose: []
