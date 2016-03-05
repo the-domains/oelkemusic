@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: THE ONE – The upcoming Grand Show in Berlin
-datePublished: '2016-03-05T14:34:15.289Z'
-dateModified: '2016-03-05T14:34:02.483Z'
+description: ''
+datePublished: '2016-03-05T14:40:52.120Z'
+dateModified: '2016-03-05T14:40:34.099Z'
 author: []
-title: Friedrichstadt-Palast Berlin
+title: THE ONE – The upcoming Grand Show in Berlin
 sourcePath: _posts/2016-03-05-friedrichstadt-palast-berlin.md
 published: true
 authors: []
