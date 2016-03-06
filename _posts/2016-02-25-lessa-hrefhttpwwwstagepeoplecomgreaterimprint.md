@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '<a href="http://www.stagepeople.com">'
-datePublished: '2016-03-05T21:24:29.320Z'
-dateModified: '2016-03-05T21:24:22.277Z'
+datePublished: '2016-03-06T01:40:16.770Z'
+dateModified: '2016-03-06T01:39:45.173Z'
 title: Imprint
 author: []
 sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
@@ -22,9 +22,8 @@ url: lessa-hrefhttpwwwstagepeoplecomgreaterimprint/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f63313-7e5e-42ea-81b6-6ce8607c2558.png)
-
 This site is powered by
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f63313-7e5e-42ea-81b6-6ce8607c2558.png)
 
 StagePeople  
 Inh. Robert Würges  
