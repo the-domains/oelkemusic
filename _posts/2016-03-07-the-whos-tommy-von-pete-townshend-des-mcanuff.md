@@ -16,9 +16,9 @@ keywords:
   - franqee
   - autschbach
   - hillbenders
-description: 'Musical von Pete Townshend / Des McAnuff Musik und Gesangstexte von Pete Townshend Libretto von Pete Townshend und Des McAnuff Ergänzende Musik von John Entwistle und Keith Moon Originalproduktion am Broadway von Pace Theatrical Group und Dodger Productions mit Kardana Productions Deutsch von Anthony Gebler Musikalische Leitung | William Ward'
-datePublished: '2016-03-07T14:05:21.428Z'
-dateModified: '2016-03-07T14:05:10.474Z'
+description: 'Acid Queen: Brigitte Oelke'
+datePublished: '2016-03-07T14:49:11.212Z'
+dateModified: '2016-03-07T14:49:07.475Z'
 author:
   - name: Theater Bielefeld
     url: 'https://www.youtube.com/user/TheaterBielefeld'
