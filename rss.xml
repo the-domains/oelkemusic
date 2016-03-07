@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 14:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 14:24:43 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[THE ONE]]></title>
@@ -19,6 +19,13 @@
             <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
             <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
             <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CITY OF ANGELS von Cy Coleman / Larry Gelbart / David Zippel - Trailer Theater Bielefeld]]></title>
+            <description><![CDATA[<article><h1>CITY OF ANGELS von Cy Coleman / Larry Gelbart / David Zippel - Trailer Theater Bielefeld</h1><p>Watch the trailer of CITY OF ANGELS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/089e8a96c7970fb90e54587bac5054203744cfb0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=nM4DSGU5x4I</link>
+            <guid isPermaLink="false">a00327d9-beef-4522-b2db-efc9af664c2f</guid>
+            <pubDate>Mon, 07 Mar 2016 14:23:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE WHO'S TOMMY von Pete Townshend / Des McAnuff]]></title>
@@ -68,13 +75,6 @@
             <link>http://america.pink/brigitte-oelke_755199.html</link>
             <guid isPermaLink="false">360d217e-27da-4112-92a5-019d51f6fc6f</guid>
             <pubDate>Mon, 07 Mar 2016 11:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)]]></title>
-            <description><![CDATA[<article><h1>The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)</h1><p>With »The Private Session LIVE« I am sharing a lot of interesting and funny stories that happened on- and offstage and like to get in response with the audience. Every performance becomes a unique experience and we are having a lot of fun together.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a89436743585112c9a54a88390c1deec6b90350.jpg"></article>]]></description>
-            <link>http://oelkemusic.com/the-private-session-brigitte-oelke-and-dmj-daybreak-barry/index.html</link>
-            <guid isPermaLink="false">9eb33ca0-1891-419f-8fd8-3af9d815583c</guid>
-            <pubDate>Sat, 05 Mar 2016 20:41:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
