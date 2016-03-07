@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brigitte Oelke - Singer/ Actress/ Producer]]></title>
-        <description><![CDATA[Brigitte Oelke - Singer/ Actress/ Producer]]></description>
+        <title><![CDATA[Brigitte Oelke]]></title>
+        <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 02:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 12:00:27 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -12,6 +12,13 @@
             <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
             <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
             <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brigitte Oelke]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke</h1><p>Brigitte Oelke's affection for music started very early in her life. Her mother was the leader of the children's choir at the St. Gallen Stadttheater, in which Brigitte took part herself. Furthermore, she learnt to play multiple instruments but nevertheless, singing was her greatest passion. A friend of the family, Prof.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35ceba40aa12e958df1b56abe96f25c600c8b3f1.jpg"></article>]]></description>
+            <link>http://america.pink/brigitte-oelke_755199.html</link>
+            <guid isPermaLink="false">360d217e-27da-4112-92a5-019d51f6fc6f</guid>
+            <pubDate>Mon, 07 Mar 2016 11:59:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Private Session - Brigitte Oelke & DMJ - Daybreak (Barry Manilow)]]></title>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Brigitte Oelke's new path on the web]]></title>
-            <description><![CDATA[<article><h1>Brigitte Oelke's new path on the web</h1><p>Brigitte Oelke - Actress, Singer, Producer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae9968fe2a8ea0cfdb99439d4ca3d3176812640f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Brigitte Oelke's new path on the web</h1><p>I am excited to participate the future of the internet by being a Founding Member on THE GRID. While this stunning new service is in the tryout, I will start using it to let you participate on my activities. I really look forward to create an exciting place for you to find out more about my work and life as an artist. ALOHA! Brigitte Oelke</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae9968fe2a8ea0cfdb99439d4ca3d3176812640f.jpg"></article>]]></description>
             <link>http://oelkemusic.com/brigitte-oelkes-new-path-on-the-web/index.html</link>
             <guid isPermaLink="false">3f7b709c-4c9a-4c4b-94fb-2f398caae55e</guid>
             <pubDate>Sun, 06 Mar 2016 02:22:54 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://oelkemusic.com/sunset-boulevard/index.html</link>
             <guid isPermaLink="false">c4e03820-86d7-451c-9527-e089148e4279</guid>
             <pubDate>Thu, 25 Feb 2016 11:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MUSICAL MEETS OPERA 7 (Vienna)]]></title>
-            <description><![CDATA[<article><h1>MUSICAL MEETS OPERA 7 (Vienna)</h1><p>On Sunday 14th, February 2016 I will be part of the 11:00 Matinée MUSICAL MEETS OPERA at the Raimund Theater Vienna. The main topic of this matinée is the music of Mozart and therefore I will perform in the duett »Du hast ihn an der Angel« of Cäcilia Weber and Constanze Weber (Franziska Schuster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c64500a96e3d62296560e9edd22e42a82ae833.jpg"></article>]]></description>
-            <link>http://www.musicalvienna.at/index.php/de/aktuelles/article/205674</link>
-            <guid isPermaLink="false">777d84a0-1ca0-423d-bd8c-200c53191a2f</guid>
-            <pubDate>Tue, 23 Feb 2016 04:21:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
