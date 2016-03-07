@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 12:32:27 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -12,6 +12,13 @@
             <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
             <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
             <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brigitte Oelke & Martin Berger - A Kind Of Magic - We Will Rock You (Basel)]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke & Martin Berger - A Kind Of Magic - We Will Rock You (Basel)</h1><p>Musical-Diva Brigitte Oelke als Killer Queen und Martin Berger als Khashoggi in WE WILL ROCK YOU - das Musical von Queen & Ben Elton http://www.wewillrockyou.de Music & Lyrics by Roger Taylor Besuche auch die Website von Brigitte Oelke http://www.brigitteoelke.com Werde Fan auf http://www.facebook.com/brigitteoelke.de und abonniere diesen YouTube-Kanal!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60d8558d8a2eea68dd7dab042b288d99241adee1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SKLbBjAigOU</link>
+            <guid isPermaLink="false">c5c0115f-5fe3-4c95-90f4-009ecac6c4e9</guid>
+            <pubDate>Mon, 07 Mar 2016 12:30:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brigitte Oelke - JEDERMANN - Die Rockoper - Opening]]></title>
@@ -68,13 +75,6 @@
             <link>http://oelkemusic.com/brigitte-oelke-discover-me/index.html</link>
             <guid isPermaLink="false">75d0a91a-b362-4505-8d83-f08053b652d2</guid>
             <pubDate>Sat, 05 Mar 2016 13:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Killer Queen for more than a decade]]></title>
-            <description><![CDATA[<article><h1>Killer Queen for more than a decade</h1><p>I was having a great time in Vienna in 2015, playing the Killer Queen in WE WILL ROCK YOU</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b14469e37cc4df8dd0deb6377095e1405eeadf36.jpg"></article>]]></description>
-            <link>http://oelkemusic.com/killer-queen-for-more-than-a-decade/index.html</link>
-            <guid isPermaLink="false">d3f763a4-2794-41e0-9edc-b01b9304df0b</guid>
-            <pubDate>Sat, 05 Mar 2016 13:07:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
