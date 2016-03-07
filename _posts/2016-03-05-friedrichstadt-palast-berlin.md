@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T15:44:07.340Z'
-dateModified: '2016-03-07T15:44:02.705Z'
+datePublished: '2016-03-07T21:29:15.517Z'
+dateModified: '2016-03-07T21:29:10.797Z'
 author: []
 title: THE ONE
 sourcePath: _posts/2016-03-05-friedrichstadt-palast-berlin.md
