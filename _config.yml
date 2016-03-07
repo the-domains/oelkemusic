@@ -1,6 +1,6 @@
 name: oelkemusic.com
 favicon: null
-layout_spectrum: 0.75678
+layout_spectrum: 0.69453
 typography_spectrum: 0.3635795
 title: Brigitte Oelke
 collections:
@@ -34,8 +34,8 @@ color:
     - '#ceb36c'
     - '#3f1f10'
     - '#bc6e3c'
-  brandStrength: 1
+  brandStrength: 0.75
   lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
