@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 12:33:06 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -12,6 +12,13 @@
             <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
             <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
             <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brigitte Oelke - Out Here On My Own (Fame)]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke - Out Here On My Own (Fame)</h1><p>Brigitte Oelke & ORSO - The Rock Symphony Orchestra Live in der Rothaus Arena, Freiburg Infos zu Brigitte Oelke: http://www.brigitteoelke.com Bitte nutze den "Mag ich"-Button und hinterlasse einen Kommentar!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f35c3df2b829aea6797b7ba17827a0c3abcac88.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=mNqHkfj6rdA</link>
+            <guid isPermaLink="false">3620f497-2bdd-49a8-a156-cfeb69bf51fb</guid>
+            <pubDate>Mon, 07 Mar 2016 12:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brigitte Oelke & Martin Berger - A Kind Of Magic - We Will Rock You (Basel)]]></title>
@@ -68,13 +75,6 @@
             <link>http://oelkemusic.com/the-private-session/index.html</link>
             <guid isPermaLink="false">108a5b34-e1ad-4245-8c83-1a7c3acbc24c</guid>
             <pubDate>Sat, 05 Mar 2016 13:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brigitte Oelke «Discover Me !»]]></title>
-            <description><![CDATA[<article><h1>Brigitte Oelke «Discover Me !»</h1><p>Mr. Rock'n'Rohles is one of the rare Queen-Experts, if it comes to the music, that the master himself, Mr. May, is listening to. Therefore Frank Rohles created a killer-cover-version of Queen's «Don't Stop Me Now» which we perform on my EP - Discover Me !A must-have for every Queen-Fan ... and guess what ... Brian and Roger like it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0102fdb26c3dc0448f3eb287f02461a256a0d6af.jpg"></article>]]></description>
-            <link>http://oelkemusic.com/brigitte-oelke-discover-me/index.html</link>
-            <guid isPermaLink="false">75d0a91a-b362-4505-8d83-f08053b652d2</guid>
-            <pubDate>Sat, 05 Mar 2016 13:07:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
