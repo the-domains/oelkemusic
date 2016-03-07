@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brigitte Oelke's new album «The Private Session, Musicals Vol.1»"
-datePublished: '2016-03-05T20:41:14.643Z'
-dateModified: '2016-03-05T20:41:14.267Z'
+datePublished: '2016-03-07T16:42:26.847Z'
+dateModified: '2016-03-07T16:42:24.662Z'
 author: []
 title: Video-Teaser «The Private Session - Musicals Vol. 1»
 sourcePath: _posts/2016-01-14-video-teaser-for-my-new-album.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Ariane Spiegel (Cello) & Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa67f7fec86b8cb8a4e1d925f23094ffb3ca75e5.gif)
+![Ariane Spiegel (Cello) & Dominik Franke (Piano)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20a4a4925e251651d18e0fa4339e22927b3f9445.gif)
 
 Watch the german promo video and be satisfied by my new album   
 _The Private Session -- Musicals Vol.1_
