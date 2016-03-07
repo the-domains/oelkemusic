@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:37:05.197Z'
-dateModified: '2016-03-05T20:36:23.501Z'
+datePublished: '2016-03-07T13:18:04.086Z'
+dateModified: '2016-03-07T13:18:00.967Z'
 author: []
 title: THE ONE
 sourcePath: _posts/2016-03-05-friedrichstadt-palast-berlin.md
@@ -51,4 +51,4 @@ Also suitable for international guests, who do not speak German.
 
 Recommended minimum age 10 years  
 Duration approx. 2,5 hours incl. a 25-minute interval
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6302650-2243-4958-9929-7d7ba9fc01f8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28060caab9586e8c3e80d9fb5f866b1d64503ed2.png)
