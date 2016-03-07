@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:58:12 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brigitte Oelke - JEDERMANN - Die Rockoper - Tick! Tack!]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke - JEDERMANN - Die Rockoper - Tick! Tack!</h1><p>von Wolfgang Böhmer und Peter Lund </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b6b0cdb28d6e65c8d35cc115a9bc931770bab41.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=UYBxh9P2oaQ&amp;index=2&amp;list=PLOVXCPUZbGPWTaXeL8reNw5Ni5r_lUDd6</link>
+            <guid isPermaLink="false">985faa62-5d91-4e46-bffe-de5c18eb8a9f</guid>
+            <pubDate>Mon, 07 Mar 2016 21:57:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brigitte Oelke - JEDERMANN - Die Rockoper - Opening]]></title>
             <description><![CDATA[<article><h1>Brigitte Oelke - JEDERMANN - Die Rockoper - Opening</h1><p>Musicalstar Brigitte Oelke als DER TOD in Wolfgang Böhmer & Peter Lund's JEDERMANN - Die Rockoper. Es spielt das Orchester des THEATER ERFURT und die Band LIDENBROCK unter der Leitung von Jürgen Grimm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0cc31c5ff7f8da8ece0842ad4d058128f990d31.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/37839331</link>
             <guid isPermaLink="false">a0301615-4784-4574-944e-4816fe61fa53</guid>
             <pubDate>Mon, 07 Mar 2016 12:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brigitte Oelke - Out Here On My Own (Fame)]]></title>
-            <description><![CDATA[<article><h1>Brigitte Oelke - Out Here On My Own (Fame)</h1><p>Brigitte Oelke & ORSO - The Rock Symphony Orchestra Live in der Rothaus Arena, Freiburg Infos zu Brigitte Oelke: http://www.brigitteoelke.com Bitte nutze den "Mag ich"-Button und hinterlasse einen Kommentar!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f35c3df2b829aea6797b7ba17827a0c3abcac88.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=mNqHkfj6rdA</link>
-            <guid isPermaLink="false">3620f497-2bdd-49a8-a156-cfeb69bf51fb</guid>
-            <pubDate>Mon, 07 Mar 2016 12:31:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
