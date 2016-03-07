@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dG-wJ4IMyvw'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Musicalstar Brigitte Oelke als DER TOD in Wolfgang Böhmer & Peter Lund's JEDERMANN - Die Rockoper. Es spielt das Orchester des THEATER ERFURT und die Band LIDENBROCK unter der Leitung von Jürgen Grimm."
-datePublished: '2016-03-07T21:48:37.022Z'
-dateModified: '2016-03-07T21:48:30.156Z'
+datePublished: '2016-03-07T21:49:45.476Z'
+dateModified: '2016-03-07T21:49:41.101Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
