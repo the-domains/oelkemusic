@@ -17,8 +17,8 @@ keywords:
   - shirley
   - rock
 description: 'Brigitte Oelke & ORSO Orchestra & Choral Society Rock Symphony Night 2013 Friedrichstadt Palast, Berlin Musik & Text: Jerry Herman Besuche auch die Website von Brigitte Oelke http://www.brigitteoelke.com Werde Fan auf http://www.facebook.com/brigitteoelke.de und abonniere diesen Kanal Unterstütze auch Du ORSO Orchestra & Choral Society http://www.orso.org'
-datePublished: '2016-03-07T20:57:21.732Z'
-dateModified: '2016-03-07T20:57:08.860Z'
+datePublished: '2016-03-07T21:02:12.691Z'
+dateModified: '2016-03-07T21:02:08.169Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Brigitte Oelke - I Am What I Am (J. Herman)
+sourcePath: _posts/2016-03-07-brigitte-oelke-i-am-what-i-am-j-herman.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-07-brigitte-oelke-i-am-what-i-am-j-herman.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
@@ -80,4 +80,4 @@ _context: 'http://schema.org'
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b58dc9b-8c1e-4258-aa96-2b3ba4c9ddf2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b35af742-3e0e-4b8f-ab39-ddd56f7c57ea.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be290b19-b29a-4aba-83dc-1514d024bf9c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e03de591dc15f4572493efbe9af956c8f880137c.jpg)
