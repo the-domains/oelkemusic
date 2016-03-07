@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 12:50:06 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
@@ -12,6 +12,13 @@
             <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
             <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
             <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOZART! Das Musical im RAIMUND THEATER - Trailer 2015]]></title>
+            <description><![CDATA[<article><h1>MOZART! Das Musical im RAIMUND THEATER - Trailer 2015</h1><p>MOZART! - Das Musical im RAIMUND THEATER Jetzt Tickets sichern: http://bit.ly/1GGlGbz MOZART! Das Musical aus der Feder des Erfolgsduos Michael Kunze und Sylvester Levay beleuchtet den Weltmusiker, die historische Figur, eine Legende der klassischen Musik. Mozart wird hier als außerordentlich begabter Künstler gezeigt, der dennoch oder gerade deshalb mit den einfachen Herausforderungen des Lebens kämpft.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/644fc5dd2d64efea210e1a2d5c8dca2bbe938413.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=flVs6XKHYIY</link>
+            <guid isPermaLink="false">d7749e6f-cf18-4075-8461-d1ca90754b9e</guid>
+            <pubDate>Mon, 07 Mar 2016 12:48:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theater St. Gallen | Chicago]]></title>
@@ -68,13 +75,6 @@
             <link>http://oelkemusic.com/brigitte-oelkes-new-path-on-the-web/index.html</link>
             <guid isPermaLink="false">3f7b709c-4c9a-4c4b-94fb-2f398caae55e</guid>
             <pubDate>Sun, 06 Mar 2016 02:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE ONE]]></title>
-            <description><![CDATA[<article><h1>THE ONE</h1><p>An underground party rouses a revue theatre that has stood empty for decades from a deep sleep. A young guest loses himself in the extraordinary aura of this stunning setting. The former theatre director rekindles the splendour and glamour of times past in his mind’s eye. Past and present blur in a euphoric waking dream. While everything dissolves, floats and spins in front of him – and even the floor disappears from beneath him – he senses the support that he seeks: the person that means everything to him. THE ONE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbd72ab643ed7558d0c73b1925703a1e72f2f950.jpg"></article>]]></description>
-            <link>http://oelkemusic.com/friedrichstadt-palast-berlin/index.html</link>
-            <guid isPermaLink="false">879004c0-97da-4030-9e81-54a74fc95c32</guid>
-            <pubDate>Sat, 05 Mar 2016 20:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
