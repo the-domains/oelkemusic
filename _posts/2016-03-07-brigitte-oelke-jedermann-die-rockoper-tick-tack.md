@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UYBxh9P2oaQ&index=2&list=PLOVXCPUZbGPWTaXeL8reNw5Ni5r_lUDd6'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - oelke
   - brigitte
@@ -17,8 +17,8 @@ keywords:
   - brigitteoelke
   - tod
 description: 'Watch Brigitte Oelke performing the world premiere in Erfurt, Germany'
-datePublished: '2016-03-07T21:57:57.745Z'
-dateModified: '2016-03-07T21:57:51.493Z'
+datePublished: '2016-03-08T00:41:35.162Z'
+dateModified: '2016-03-08T00:41:29.656Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
