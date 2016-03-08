@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This site is powered by
-datePublished: '2016-03-08T13:10:55.518Z'
-dateModified: '2016-03-08T13:10:53.081Z'
+datePublished: '2016-03-08T13:27:47.163Z'
+dateModified: '2016-03-08T13:27:43.556Z'
 title: Imprint
 author: []
 sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
@@ -26,12 +26,13 @@ _type: WebPage
 
 This site is powered by
 
+Robert Würges  
 StagePeople  
-Inh. Robert Würges  
 Holsteinische Str. 18  
 D-12161 Berlin  
 GERMANY  
-T +49 171 9849586  
+T +49 171 9849586
+
 Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE252372105
 
 Inhaltlich Verantwortlicher gem. § 55 II RStV: Robert Würges (Anschrift s.o.)
