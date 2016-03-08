@@ -7,20 +7,20 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Probieren, kaufen und laden Sie Titel vom Album „Discover Me - EP", unter anderem „Virtual Reality", „Lonely Tears", „Make Your Life Whole" und viele mehr. Kaufen Sie das Album für 5,99 €. Titel gibt es ab 1,29 €.'
-datePublished: '2016-03-08T00:46:27.841Z'
-dateModified: '2016-03-08T00:46:07.643Z'
+datePublished: '2016-03-08T00:46:42.372Z'
+dateModified: '2016-03-08T00:46:30.176Z'
 author: []
 related: []
 app_links: []
 title: '„Discover Me - EP" von Brigitte Oelke in iTunes'
+sourcePath: _posts/2016-03-08-discover-me-ep-von-brigitte-oelke-in-itunes.md
+published: true
 authors: []
 publisher:
   name: iTunes
   domain: itunes.apple.com
   url: 'http://itunes.apple.com'
   favicon: 'https://itunes.apple.com/favicon.ico'
-sourcePath: _posts/2016-03-08-discover-me-ep-von-brigitte-oelke-in-itunes.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
