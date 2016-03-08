@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 00:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 00:47:47 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brigitte Oelke - JEDERMANN - Die Rockoper - Tick! Tack!]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=UYBxh9P2oaQ&amp;index=2&amp;list=PLOVXCPUZbGPWTaXeL8reNw5Ni5r_lUDd6</link>
             <guid isPermaLink="false">985faa62-5d91-4e46-bffe-de5c18eb8a9f</guid>
             <pubDate>Tue, 08 Mar 2016 00:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Discover Me - EP" von Brigitte Oelke in iTunes]]></title>
+            <description><![CDATA[<article><h1>„Discover Me - EP" von Brigitte Oelke in iTunes</h1><p>Get this piece of rock history on iTunes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0718fe99b8549b4cee171b832b670094c8c5928b.jpg"></article>]]></description>
+            <link>https://itunes.apple.com/de/album/discover-me-ep/id773235693</link>
+            <guid isPermaLink="false">2f93bb99-d372-4604-aa73-3e7f0cee7b49</guid>
+            <pubDate>Tue, 08 Mar 2016 00:46:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[„The Private Session" von Brigitte Oelke in iTunes]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=SRnPGUh9mW0</link>
             <guid isPermaLink="false">efeb7454-1986-4d12-8485-264679c1ff83</guid>
             <pubDate>Mon, 07 Mar 2016 14:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MOZART! Das Musical im RAIMUND THEATER - Trailer 2015]]></title>
-            <description><![CDATA[<article><h1>MOZART! Das Musical im RAIMUND THEATER - Trailer 2015</h1><p>MOZART! - Das Musical im RAIMUND THEATER Jetzt Tickets sichern: http://bit.ly/1GGlGbz MOZART! Das Musical aus der Feder des Erfolgsduos Michael Kunze und Sylvester Levay beleuchtet den Weltmusiker, die historische Figur, eine Legende der klassischen Musik. Mozart wird hier als außerordentlich begabter Künstler gezeigt, der dennoch oder gerade deshalb mit den einfachen Herausforderungen des Lebens kämpft.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/644fc5dd2d64efea210e1a2d5c8dca2bbe938413.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=flVs6XKHYIY</link>
-            <guid isPermaLink="false">d7749e6f-cf18-4075-8461-d1ca90754b9e</guid>
-            <pubDate>Mon, 07 Mar 2016 12:48:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
