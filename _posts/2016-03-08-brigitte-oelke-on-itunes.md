@@ -17,20 +17,20 @@ keywords:
   - preview
   - 1-800-my-apple
 description: 'Preview and download songs and albums by Brigitte Oelke, including "The Private Session - Musicals Vol.1," "Discover Me - EP," "Last Christmas - Single," and many more. Songs by Brigitte Oelke start at $0.99.'
-datePublished: '2016-03-08T10:53:16.241Z'
-dateModified: '2016-03-08T10:52:45.096Z'
+datePublished: '2016-03-08T10:56:51.026Z'
+dateModified: '2016-03-08T10:56:49.227Z'
 author: []
 related: []
 app_links: []
 title: Brigitte Oelke on iTunes
+sourcePath: _posts/2016-03-08-brigitte-oelke-on-itunes.md
+published: true
 authors: []
 publisher:
   name: iTunes
   domain: itunes.apple.com
   url: 'http://itunes.apple.com'
   favicon: 'https://itunes.apple.com/favicon.ico'
-sourcePath: _posts/2016-03-08-brigitte-oelke-on-itunes.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
