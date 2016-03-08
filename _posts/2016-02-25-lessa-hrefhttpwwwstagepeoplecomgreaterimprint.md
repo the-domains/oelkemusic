@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T22:39:02.083Z'
-dateModified: '2016-03-06T22:38:56.338Z'
+description: This site is powered by
+datePublished: '2016-03-08T12:46:01.266Z'
+dateModified: '2016-03-08T12:45:58.281Z'
 title: Imprint
 author: []
 sourcePath: _posts/2016-02-25-lessa-hrefhttpwwwstagepeoplecomgreaterimprint.md
@@ -22,7 +22,7 @@ url: lessa-hrefhttpwwwstagepeoplecomgreaterimprint/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4eac00f-1b65-418b-806d-5d4a692ef6b5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce728bf4-3432-4e6d-b93f-75d1b480ac87.png)
 
 This site is powered by
 
