@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 00:43:23 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[„The Private Session" von Brigitte Oelke in iTunes]]></title>
+            <description><![CDATA[<article><h1>„The Private Session" von Brigitte Oelke in iTunes</h1><p>Find the album on iTunes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09ec9f49fe7ccc06711d504961a4bdf714a12c22.jpg"></article>]]></description>
+            <link>https://itunes.apple.com/de/album/the-private-session/id775245795</link>
+            <guid isPermaLink="false">8f743c60-ea79-4763-a263-2ec32db08cd9</guid>
+            <pubDate>Tue, 08 Mar 2016 00:40:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brigitte Oelke - JEDERMANN - Die Rockoper - Tick! Tack!]]></title>
             <description><![CDATA[<article><h1>Brigitte Oelke - JEDERMANN - Die Rockoper - Tick! Tack!</h1><p>von Wolfgang Böhmer und Peter Lund </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b6b0cdb28d6e65c8d35cc115a9bc931770bab41.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=flVs6XKHYIY</link>
             <guid isPermaLink="false">d7749e6f-cf18-4075-8461-d1ca90754b9e</guid>
             <pubDate>Mon, 07 Mar 2016 12:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theater St. Gallen | Chicago]]></title>
-            <description><![CDATA[<article><h1>Theater St. Gallen | Chicago</h1><p>This is "Theater St. Gallen | Chicago" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d554c2235bf9daa112989eab7bc4cb4d9fe33c9.jpg"></article>]]></description>
-            <link>https://vimeo.com/37839331</link>
-            <guid isPermaLink="false">a0301615-4784-4574-944e-4816fe61fa53</guid>
-            <pubDate>Mon, 07 Mar 2016 12:46:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
