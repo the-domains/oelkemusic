@@ -16,9 +16,9 @@ keywords:
   - orchestra
   - shirley
   - rock
-description: 'Brigitte Oelke & ORSO Orchestra & Choral Society Rock Symphony Night 2013 Friedrichstadt Palast, Berlin Musik & Text: Jerry Herman Besuche auch die Website von Brigitte Oelke http://www.brigitteoelke.com Werde Fan auf http://www.facebook.com/brigitteoelke.de und abonniere diesen Kanal Unterstütze auch Du ORSO Orchestra & Choral Society http://www.orso.org'
-datePublished: '2016-03-07T21:02:12.691Z'
-dateModified: '2016-03-07T21:02:08.169Z'
+description: 'Brigitte Oelke & ORSO • Rock Symphony Night 2013 • Friedrichstadt Palast Berlin • Music & Lyrics by Jerry Herman'
+datePublished: '2016-03-08T01:30:58.382Z'
+dateModified: '2016-03-08T01:30:57.964Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
