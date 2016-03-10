@@ -17,8 +17,8 @@ keywords:
   - brigitteoelke
   - tod
 description: 'Watch Brigitte Oelke performing the world premiere in Erfurt, Germany'
-datePublished: '2016-03-10T13:27:26.603Z'
-dateModified: '2016-03-10T13:27:23.503Z'
+datePublished: '2016-03-10T22:20:03.852Z'
+dateModified: '2016-03-10T22:20:01.325Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -74,6 +74,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f0ffff69a879a6a1348e3a6a14e753d30fbea4f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdfcdb36-36b6-44a2-9f7a-fe80ab980172.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLOVXCPUZbGPWTaXeL8reNw5Ni5r_lUDd6&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUYBxh9P2oaQ%26index%3D2%26list%3DPLOVXCPUZbGPWTaXeL8reNw5Ni5r_lUDd6&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUYBxh9P2oaQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
