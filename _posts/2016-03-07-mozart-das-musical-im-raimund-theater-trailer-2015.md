@@ -16,9 +16,9 @@ keywords:
   - nina
   - musicalzone
   - raimund
-description: 'MOZART! - Das Musical im RAIMUND THEATER Jetzt Tickets sichern: http://bit.ly/1GGlGbz MOZART! Das Musical aus der Feder des Erfolgsduos Michael Kunze und Sylvester Levay beleuchtet den Weltmusiker, die historische Figur, eine Legende der klassischen Musik. Mozart wird hier als außerordentlich begabter Künstler gezeigt, der dennoch oder gerade deshalb mit den einfachen Herausforderungen des Lebens kämpft.'
-datePublished: '2016-03-08T01:36:49.340Z'
-dateModified: '2016-03-08T01:36:39.513Z'
+description: 'MOZART! - Das Musical im RAIMUND THEATER, Vienna'
+datePublished: '2016-03-10T13:24:09.803Z'
+dateModified: '2016-03-10T13:21:02.520Z'
 author:
   - name: musicalviennaVBW
     url: 'https://www.youtube.com/user/musicalviennaVBW'
