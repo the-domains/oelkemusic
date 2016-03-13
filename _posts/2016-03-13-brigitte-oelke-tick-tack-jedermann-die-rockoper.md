@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brigitte Oelke - JEDERMANN – Die Rockoper - Tick! Tack! - YouTube'
-datePublished: '2016-03-13T23:39:33.090Z'
-dateModified: '2016-03-13T23:39:30.063Z'
+datePublished: '2016-03-13T23:43:49.074Z'
+dateModified: '2016-03-13T23:43:44.205Z'
 author: []
 title: 'Brigitte Oelke - Tick! Tack! (JEDERMANN - Die Rockoper)'
 sourcePath: _posts/2016-03-13-brigitte-oelke-tick-tack-jedermann-die-rockoper.md
