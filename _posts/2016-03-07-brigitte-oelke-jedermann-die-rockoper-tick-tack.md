@@ -17,8 +17,8 @@ keywords:
   - brigitteoelke
   - tod
 description: 'Watch Brigitte Oelke performing the world premiere in Erfurt, Germany'
-datePublished: '2016-03-10T22:20:03.852Z'
-dateModified: '2016-03-10T22:20:01.325Z'
+datePublished: '2016-03-13T22:53:34.733Z'
+dateModified: '2016-03-13T22:53:30.534Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
