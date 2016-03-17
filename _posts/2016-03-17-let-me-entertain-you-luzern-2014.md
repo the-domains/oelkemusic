@@ -17,8 +17,8 @@ keywords:
   - lucerne
   - '2013'
 description: 'ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)'
-datePublished: '2016-03-17T12:02:51.920Z'
-dateModified: '2016-03-17T12:02:39.531Z'
+datePublished: '2016-03-17T14:13:05.009Z'
+dateModified: '2016-03-17T14:12:59.165Z'
 author:
   - name: 'ORSO Chor & Orchester'
     url: 'https://www.youtube.com/user/ORSOnaut'
@@ -61,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Let Me Entertain You Luzern 2014
+title: Let Me Entertain You - Luzern 2014
+sourcePath: _posts/2016-03-17-let-me-entertain-you-luzern-2014.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-let-me-entertain-you-luzern-2014.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
