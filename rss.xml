@@ -4,15 +4,8 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 12:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 12:01:57 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Let Me Entertain You Luzern 2014]]></title>
-            <description><![CDATA[<article><h1>Let Me Entertain You Luzern 2014</h1><p>ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/475f77058ed71f8fb82086294a8cb3f0e9361d63.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=HNXSfAB7PwQ</link>
-            <guid isPermaLink="false">688297d2-1fe4-4207-b0f0-dc845a92148e</guid>
-            <pubDate>Thu, 17 Mar 2016 12:02:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[ORSO - The Show Must Go On - Luzern 2014]]></title>
             <description><![CDATA[<article><h1>ORSO - The Show Must Go On - Luzern 2014</h1><p>ORSO feat. Sascha Lien, Brigitte Oelke und David-Michael Johnson at the KKL Luzern </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b304e4ae9d1e76222dbf0c866764583bc698b62.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://oelkemusic.com/friedrichstadt-palast-berlin/index.html</link>
             <guid isPermaLink="false">879004c0-97da-4030-9e81-54a74fc95c32</guid>
             <pubDate>Mon, 07 Mar 2016 22:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Private Session - Musicals Vol.1]]></title>
+            <description><![CDATA[<article><h1>The Private Session - Musicals Vol.1</h1><p>The Piano is played by Dominik Franke, a brilliant pianist and musical director who is working on many class A theatre productions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb678d4d9e5846326dad7a3184c8171ad7d7f868.jpg"></article>]]></description>
+            <link>http://oelkemusic.com/the-private-session-musicals-vol1/index.html</link>
+            <guid isPermaLink="false">a5d61245-a7bd-4bd3-885c-1da80f9daf31</guid>
+            <pubDate>Sat, 05 Mar 2016 15:04:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
