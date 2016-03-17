@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'ORSO feat. Sascha Lien, Brigitte Oelke und David-Michael Johnson at the KKL Luzern '
-datePublished: '2016-03-17T12:01:21.932Z'
-dateModified: '2016-03-17T12:01:16.254Z'
+datePublished: '2016-03-17T14:12:38.761Z'
+dateModified: '2016-03-17T14:12:35.135Z'
 author:
   - name: One Shot Media
     url: 'https://www.youtube.com/user/oneshotmediagermany'
@@ -51,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: ORSO - The Show Must Go On - Luzern 2014
+title: The Show Must Go On - Luzern 2014
+sourcePath: _posts/2016-03-17-orso-the-show-must-go-on-luzern-2014.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-orso-the-show-must-go-on-luzern-2014.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
