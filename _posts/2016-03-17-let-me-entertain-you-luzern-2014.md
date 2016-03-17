@@ -16,9 +16,9 @@ keywords:
   - symphonie
   - lucerne
   - '2013'
-description: 'ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)'
-datePublished: '2016-03-17T14:13:05.009Z'
-dateModified: '2016-03-17T14:12:59.165Z'
+description: 'ORSO feat. Brigitte Oelke, David-Michael Johnson, Sascha Lien live at the KKL, Luzern (CH)'
+datePublished: '2016-03-17T14:17:19.435Z'
+dateModified: '2016-03-17T14:17:16.518Z'
 author:
   - name: 'ORSO Chor & Orchester'
     url: 'https://www.youtube.com/user/ORSOnaut'
