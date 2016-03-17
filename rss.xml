@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 14:14:01 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brigitte Oelke - I Am What I Am]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke - I Am What I Am</h1><p>Brigitte Oelke & ORSO • Rock Symphony Night 2013 • Friedrichstadt Palast Berlin • Music & Lyrics by Jerry Herman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb229d00a08207c5a4e7c2a3777ee20fb0e06011.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=t6gCZjIqxho&amp;index=2&amp;list=PLOVXCPUZbGPUBv9bGt_ZyyHPg9Jb_2gSV</link>
+            <guid isPermaLink="false">64e9a54e-ca23-448c-8526-a6d7a80befab</guid>
+            <pubDate>Thu, 17 Mar 2016 14:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don't Stop Me Now - Luzern 2014]]></title>
             <description><![CDATA[<article><h1>Don't Stop Me Now - Luzern 2014</h1><p>ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/483397ca574f381bf1feb8f97a3fb1fdc5d72862.jpg"></article>]]></description>
@@ -14,11 +21,11 @@
             <pubDate>Thu, 17 Mar 2016 14:11:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let Me Entertain You Luzern 2014]]></title>
-            <description><![CDATA[<article><h1>Let Me Entertain You Luzern 2014</h1><p>ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/475f77058ed71f8fb82086294a8cb3f0e9361d63.jpg"></article>]]></description>
+            <title><![CDATA[Let Me Entertain You - Luzern 2014]]></title>
+            <description><![CDATA[<article><h1>Let Me Entertain You - Luzern 2014</h1><p>ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/475f77058ed71f8fb82086294a8cb3f0e9361d63.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=HNXSfAB7PwQ</link>
             <guid isPermaLink="false">688297d2-1fe4-4207-b0f0-dc845a92148e</guid>
-            <pubDate>Thu, 17 Mar 2016 12:02:51 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 14:13:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Show Must Go On - Luzern 2014]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=flVs6XKHYIY</link>
             <guid isPermaLink="false">d7749e6f-cf18-4075-8461-d1ca90754b9e</guid>
             <pubDate>Thu, 10 Mar 2016 13:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brigitte Oelke - JEDERMANN - Die Rockoper - Opening]]></title>
-            <description><![CDATA[<article><h1>Brigitte Oelke - JEDERMANN - Die Rockoper - Opening</h1><p>Brigitte Oelke performing DER TOD in Wolfgang Böhmer & Peter Lund's JEDERMANN - Die Rockoper (World Premiere). Music played by Orchester des THEATER ERFURT and the band  LIDENBROCK. Musical Director: Jürgen Grimm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0cc31c5ff7f8da8ece0842ad4d058128f990d31.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=dG-wJ4IMyvw</link>
-            <guid isPermaLink="false">a92bb81c-1285-4cba-9bf8-f1bd9d3d3ab2</guid>
-            <pubDate>Thu, 10 Mar 2016 13:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
