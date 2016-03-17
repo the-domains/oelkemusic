@@ -17,8 +17,8 @@ keywords:
   - oepos
   - brigitteoelke
 description: "Brigitte Oelke performing DER TOD and Andreas Lichtenberger performing JEDERMANN in Wolfgang Böhmer & Peter Lund's »JEDERMANN - Die Rockoper« // Orchestra of THEATER ERFURT // Music Director: Jürgen Grimm"
-datePublished: '2016-03-17T23:13:56.221Z'
-dateModified: '2016-03-17T23:13:34.024Z'
+datePublished: '2016-03-17T23:17:06.509Z'
+dateModified: '2016-03-17T23:17:03.285Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -62,18 +62,16 @@ app_links:
     namespace: google
     type: ios
 title: 'Tick! Tack! // Brigitte Oelke // JEDERMANN - Die Rockoper'
+sourcePath: _posts/2016-03-17-tick-tack-brigitte-oelke-jedermann-die-rockoper.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-tick-tack-brigitte-oelke-jedermann-die-rockoper.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2461d38-2422-4843-807f-91cbfad892cd.jpg)
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUYBxh9P2oaQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUYBxh9P2oaQ%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUYBxh9P2oaQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
