@@ -17,8 +17,8 @@ keywords:
   - shirley
   - rock
 description: 'Brigitte Oelke & ORSO • Rock Symphony Night 2013 • Friedrichstadt Palast Berlin • Music & Lyrics by Jerry Herman'
-datePublished: '2016-03-08T01:30:58.382Z'
-dateModified: '2016-03-08T01:30:57.964Z'
+datePublished: '2016-03-17T14:13:31.905Z'
+dateModified: '2016-03-17T14:13:24.026Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Brigitte Oelke - I Am What I Am (J. Herman)
+title: Brigitte Oelke - I Am What I Am
 sourcePath: _posts/2016-03-07-brigitte-oelke-i-am-what-i-am-j-herman.md
 published: true
 authors: []
