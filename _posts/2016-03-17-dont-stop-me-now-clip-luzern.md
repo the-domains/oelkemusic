@@ -7,23 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'ORSO feat. Brigitte Oelke & Sascha Lien live at the KKL, Luzern (CH)'
-datePublished: '2016-03-17T12:03:48.353Z'
-dateModified: '2016-03-17T12:03:44.621Z'
+datePublished: '2016-03-17T14:11:51.914Z'
+dateModified: '2016-03-17T14:11:42.303Z'
 author:
   - name: 'ORSO Chor & Orchester'
     url: 'https://www.youtube.com/user/ORSOnaut'
     avatar: {}
 related: []
 app_links: []
-title: "Don't Stop Me Now - Clip Luzern"
+title: "Don't Stop Me Now - Luzern 2014"
+sourcePath: _posts/2016-03-17-dont-stop-me-now-clip-luzern.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-03-17-dont-stop-me-now-clip-luzern.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
