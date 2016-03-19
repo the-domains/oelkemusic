@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 14:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 14:28:39 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MUSICAL MEETS OPERA 7 (Vienna)]]></title>
+            <description><![CDATA[<article><h1>MUSICAL MEETS OPERA 7 (Vienna)</h1><p>On Sunday 14th, February 2016 I am part of the Matinée MUSICAL MEETS OPERA at the Raimund Theater Vienna. The main topic of this matinée is the music of Mozart and therefore I will perform in the duett »Du hast ihn an der Angel« of Cäcilia Weber and Constanze Weber (Franziska Schuster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c64500a96e3d62296560e9edd22e42a82ae833.jpg"></article>]]></description>
+            <link>http://www.musicalvienna.at/index.php/de/aktuelles/article/205674</link>
+            <guid isPermaLink="false">777d84a0-1ca0-423d-bd8c-200c53191a2f</guid>
+            <pubDate>Sat, 19 Mar 2016 14:28:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tick! Tack! // Brigitte Oelke // JEDERMANN - Die Rockoper]]></title>
             <description><![CDATA[<article><h1>Tick! Tack! // Brigitte Oelke // JEDERMANN - Die Rockoper</h1><p>Brigitte Oelke – DER TOD // Andreas Lichtenberger – JEDERMANN // Wolfgang Böhmer & Peter Lund's »JEDERMANN - Die Rockoper« // Orchestra of THEATER ERFURT // Music Director: Jürgen Grimm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52406cef88ac3bd4378212871b05110cff1b4908.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://itunes.apple.com/us/artist/brigitte-oelke/id481274518</link>
             <guid isPermaLink="false">02da18fc-b02c-4449-9e81-4dadcee23b95</guid>
             <pubDate>Wed, 09 Mar 2016 11:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MOZART! Das Musical im RAIMUND THEATER - Trailer 2015]]></title>
-            <description><![CDATA[<article><h1>MOZART! Das Musical im RAIMUND THEATER - Trailer 2015</h1><p>MOZART! - Das Musical im RAIMUND THEATER  written by Michael Kunze and Sylvester Levay. Brigitte Oelke: Cäcilia Weber</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d285de797e67da6d7a7178c73d96cca817d2a72c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=flVs6XKHYIY</link>
-            <guid isPermaLink="false">d7749e6f-cf18-4075-8461-d1ca90754b9e</guid>
-            <pubDate>Sat, 19 Mar 2016 14:26:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
