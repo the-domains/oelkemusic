@@ -17,8 +17,8 @@ keywords:
   - shirley
   - rock
 description: 'Brigitte Oelke & ORSO • Rock Symphony Night 2013 • Friedrichstadt Palast Berlin • Music & Lyrics by Jerry Herman'
-datePublished: '2016-03-17T14:13:31.905Z'
-dateModified: '2016-03-17T14:13:24.026Z'
+datePublished: '2016-03-20T20:30:42.063Z'
+dateModified: '2016-03-20T20:30:38.731Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
