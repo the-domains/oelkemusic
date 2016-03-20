@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tonight (3/20/2016) ist the final performance of »MOZART! – Das Musical im Raimund Theater Wien«'
-datePublished: '2016-03-20T17:03:47.648Z'
-dateModified: '2016-03-20T17:03:42.105Z'
+datePublished: '2016-03-20T17:09:02.116Z'
+dateModified: '2016-03-20T17:03:54.188Z'
 title: 'MOZART! – Das Musical'
 author: []
+sourcePath: _posts/2016-03-20-mozart-das-musical.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-mozart-das-musical.md
-published: true
 _type: Blurb
 
 ---
