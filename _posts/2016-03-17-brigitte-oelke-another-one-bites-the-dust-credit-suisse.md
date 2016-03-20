@@ -17,8 +17,8 @@ keywords:
   - bielefeld
   - rock
 description: Musicalstar Brigitte Oelke als Killer Queen live bei der Verleihung der Credit Suisse Sports Awards 2012 auf SF1 // Recorded during rehearsals for the TV live show 12/16/2012)
-datePublished: '2016-03-17T11:59:00.265Z'
-dateModified: '2016-03-17T11:58:55.348Z'
+datePublished: '2016-03-20T20:35:38.339Z'
+dateModified: '2016-03-20T20:35:34.480Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Brigitte Oelke - Another One Bites The Dust - Credit Suisse Sports Awards 2012
+sourcePath: _posts/2016-03-17-brigitte-oelke-another-one-bites-the-dust-credit-suisse.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-brigitte-oelke-another-one-bites-the-dust-credit-suisse.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
