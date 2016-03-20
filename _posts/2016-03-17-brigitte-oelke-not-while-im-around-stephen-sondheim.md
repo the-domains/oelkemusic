@@ -17,8 +17,8 @@ keywords:
   - stefan
   - musical-wg
 description: "Info & Booking: theprivatesession.com // \"Not While I'm Around\" from the play \"Sweeney Todd\" // Music & Lyrics by Stephen Sondheim // from the album «The Private Session - Musicals Vol.1»  // Recorded live at «Theater am alten Markt (TaM)», Bielefeld June 28th 2015 // Vocals: Brigitte Oelke // Piano: Dominik Franke // Cello: Ariane Spiegel // Camera: Delia Kirchhoff,  Katharina Brüger, Oxana Biegler, Thomas Nitowski // Videoproduktion: Thomas Nitowski / canomedia.tv // Additional A/V Editing: Robert Wuerges / stagepeople.com"
-datePublished: '2016-03-17T11:54:50.245Z'
-dateModified: '2016-03-17T11:54:02.995Z'
+datePublished: '2016-03-20T20:34:52.327Z'
+dateModified: '2016-03-20T20:34:50.071Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: "Brigitte Oelke - Not While I'm Around (Stephen Sondheim)"
+sourcePath: _posts/2016-03-17-brigitte-oelke-not-while-im-around-stephen-sondheim.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-brigitte-oelke-not-while-im-around-stephen-sondheim.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
