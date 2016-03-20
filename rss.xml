@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 20:45:14 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brigitte Oelke - I Am What I Am]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke - I Am What I Am</h1><p>Brigitte Oelke & ORSO • Rock Symphony Night 2013 • Friedrichstadt Palast Berlin • Music & Lyrics by Jerry Herman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb229d00a08207c5a4e7c2a3777ee20fb0e06011.jpg"></article>]]></description>
+            <link>http://oelkemusic.com/brigitte-oelke-i-am-what-i-am/index.html</link>
+            <guid isPermaLink="false">64e9a54e-ca23-448c-8526-a6d7a80befab</guid>
+            <pubDate>Sun, 20 Mar 2016 20:44:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bye Bye Bielefeld]]></title>
             <description><![CDATA[<article><h1>Bye Bye Bielefeld</h1><p>We were experiencing an amazing final performance of Andrew Lloyd Webber's SUNSET BLVD at the Theater Bielfeld. It was sold out since a while and we all had that magical feeling of playing such a masterpiece for the final time. It was a great honor to me playing the role of Norma Desmond and I guess my colleagues will feel about playing their role in a similar way. It is always a great pleasure to play on this stage with that beautiful spirit and all this lovely and supporting people backstage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b982e78faa49075beb3ca15eeb6a264ff13a6bc8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.musicalvienna.at/index.php/de/aktuelles/article/205674</link>
             <guid isPermaLink="false">777d84a0-1ca0-423d-bd8c-200c53191a2f</guid>
             <pubDate>Sat, 19 Mar 2016 14:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tick! Tack! // Brigitte Oelke // JEDERMANN - Die Rockoper]]></title>
-            <description><![CDATA[<article><h1>Tick! Tack! // Brigitte Oelke // JEDERMANN - Die Rockoper</h1><p>Brigitte Oelke – DER TOD // Andreas Lichtenberger – JEDERMANN // Wolfgang Böhmer & Peter Lund's »JEDERMANN - Die Rockoper« // Orchestra of THEATER ERFURT // Music Director: Jürgen Grimm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52406cef88ac3bd4378212871b05110cff1b4908.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=UYBxh9P2oaQ&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">203c3cbf-cc8e-4c1c-b46d-6d6d6a1b704d</guid>
-            <pubDate>Thu, 17 Mar 2016 23:17:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
