@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=t6gCZjIqxho&index=2&list=PLOVXCPUZbGPUBv9bGt_ZyyHPg9Jb_2gSV'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - shirley
   - rock
 description: 'Brigitte Oelke & ORSO • Rock Symphony Night 2013 • Friedrichstadt Palast Berlin • Music & Lyrics by Jerry Herman'
-datePublished: '2016-03-20T20:35:59.157Z'
-dateModified: '2016-03-20T20:35:56.594Z'
+datePublished: '2016-03-20T20:44:31.009Z'
+dateModified: '2016-03-20T20:44:28.598Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -70,6 +69,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: brigitte-oelke-i-am-what-i-am/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
