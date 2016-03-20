@@ -17,8 +17,8 @@ keywords:
   - musicalzone
   - raimund
 description: 'MOZART! - Das Musical im RAIMUND THEATER, Vienna'
-datePublished: '2016-03-19T14:26:23.049Z'
-dateModified: '2016-03-19T14:26:20.826Z'
+datePublished: '2016-03-20T20:31:59.966Z'
+dateModified: '2016-03-20T20:31:54.175Z'
 author:
   - name: musicalviennaVBW
     url: 'https://www.youtube.com/user/musicalviennaVBW'
@@ -75,5 +75,3 @@ _context: 'http://schema.org'
 
 ---
 ![MOZART! - Das Musical im RAIMUND THEATER  written by Michael Kunze and Sylvester Levay. Brigitte Oelke: Cäcilia Weber](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d285de797e67da6d7a7178c73d96cca817d2a72c.jpg)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FflVs6XKHYIY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DflVs6XKHYIY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FflVs6XKHYIY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
