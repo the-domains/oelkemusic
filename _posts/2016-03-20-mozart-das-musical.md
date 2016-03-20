@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Impressions from the final performance of »MOZART! – Das Musical im Raimund Theater Wien«, 3/20/2016'
-datePublished: '2016-03-20T20:33:38.599Z'
-dateModified: '2016-03-20T20:33:36.310Z'
+datePublished: '2016-03-20T20:40:39.140Z'
+dateModified: '2016-03-20T20:40:36.770Z'
 title: 'MOZART! – Das Musical'
 author: []
 sourcePath: _posts/2016-03-20-mozart-das-musical.md
