@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke]]></description>
         <link>http://oelkemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 20:37:13 GMT</lastBuildDate>
         <atom:link href="http://oelkemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bec1a45ec84eedc033eb237892ffc85f6c4e428.jpg" alt="Queen posted this photo on 2015-02-02" title="">]]></description>
+            <link>https://www.facebook.com/Queen/photos/pcb.10152716266557362/10152716261802362/?type=3&amp;theater</link>
+            <guid isPermaLink="false">8fe2d0fc-023d-4bd7-af58-3eee37ea824f</guid>
+            <pubDate>Sun, 20 Mar 2016 20:36:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brigitte Oelke - Another One Bites The Dust - Credit Suisse Sports Awards 2012]]></title>
             <description><![CDATA[<article><h1>Brigitte Oelke - Another One Bites The Dust - Credit Suisse Sports Awards 2012</h1><p>Musicalstar Brigitte Oelke als Killer Queen live bei der Verleihung der Credit Suisse Sports Awards 2012 auf SF1 // Recorded during rehearsals for the TV live show 12/16/2012)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1022687368551962067c72b299509a103896e2e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=LJPqIzgPCCc</link>
             <guid isPermaLink="false">6921a3d2-da89-4872-8389-96982f2f1b06</guid>
             <pubDate>Thu, 17 Mar 2016 14:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let Me Entertain You - Luzern 2014]]></title>
-            <description><![CDATA[<article><h1>Let Me Entertain You - Luzern 2014</h1><p>ORSO feat. Brigitte Oelke, David-Michael Johnson, Sascha Lien live at the KKL, Luzern (CH)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/475f77058ed71f8fb82086294a8cb3f0e9361d63.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=HNXSfAB7PwQ</link>
-            <guid isPermaLink="false">688297d2-1fe4-4207-b0f0-dc845a92148e</guid>
-            <pubDate>Thu, 17 Mar 2016 14:17:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
