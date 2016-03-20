@@ -6,11 +6,11 @@ isBasedOnUrl: 'https://www.facebook.com/brigitteoelke.de/photos/a.40932882584024
 inLanguage: null
 starred: false
 keywords: []
-description: "Brigitte Oelke's acoustic album »The Private Session« and Rock-EP »Discover Me !«"
-datePublished: '2016-01-28T11:50:02.897Z'
-dateModified: '2016-01-28T11:49:56.987Z'
+description: "Before my latest album »The Private Session Musicals Vol.1« has been released, I was producing two amazing CDs.\_"
+datePublished: '2016-03-20T20:37:33.408Z'
+dateModified: '2016-03-20T20:37:25.694Z'
 author: []
-title: The other two CDs
+title: Get my CDs
 sourcePath: _posts/2016-01-27-the-other-two-cds.md
 published: true
 authors: []
