@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T22:04:30.641Z'
-dateModified: '2016-03-07T22:04:23.474Z'
+description: 'An underground party rouses a revue theatre that has stood empty for decades from a deep sleep. A young guest loses himself in the extraordinary aura of this stunning setting. The former theatre director rekindles the splendour and glamour of times past in his mind’s eye. Past and present blur in a euphoric waking dream. While everything dissolves, floats and spins in front of him – and even the floor disappears from beneath him – he senses the support that he seeks: the person that means everything to him. THE ONE.'
+datePublished: '2016-04-08T10:58:09.699Z'
+dateModified: '2016-04-08T10:58:05.670Z'
 author: []
 title: THE ONE
 sourcePath: _posts/2016-03-05-friedrichstadt-palast-berlin.md
