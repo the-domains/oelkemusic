@@ -15,14 +15,15 @@ keywords:
   - mind-boggling
   - 25-minute
 description: 'Jean Paul Gaultier designed the over 500 daring and extravagant costumes. Gaultier is one of the few world stars of the fashion industry, a living legend of Parisian haute couture. The spectacular light design is by Emmy Award winner, Peter Morse, who previously worked for stars of the likes of Michael Jackson, Madonna, Barbra Streisand, Prince and Bette Midler.'
-datePublished: '2016-05-23T17:23:15.913Z'
-dateModified: '2016-05-23T17:23:08.491Z'
+datePublished: '2016-05-23T17:37:29.592Z'
+dateModified: '2016-05-23T17:37:29.104Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: THE ONE Grand Show
+sourcePath: _posts/2016-05-23-the-one-grand-show.md
 authors: []
 publisher:
   name: Friedrichstadt-Palast
@@ -30,7 +31,6 @@ publisher:
   url: 'http://www.palast.berlin'
   favicon: 'http://www.palast.berlin/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-23-the-one-grand-show.md
 url: the-one-grand-show/index.html
 _context: 'http://schema.org'
 _type: MediaObject
